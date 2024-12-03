@@ -1,0 +1,137 @@
+,Product_Name,Brand_Rating,Number_of_Reviews,Feature_Liked_Most,Feature_Liked_Least,Customer_Comments
+0,Samsung Galaxy S,4.9,1718,Price,Camera quality,"The Samsung Galaxy S offers a user-friendly interface, although the charging speed could be faster."
+1,Samsung Galaxy S II,4.8,934,Price,Camera quality,"The Samsung Galaxy S II offers a user-friendly interface, although the charging speed could be faster."
+2,Samsung Galaxy S III,4.5,1722,Price,Camera quality,"The Samsung Galaxy S III is highly durable and reliable, but its screen refresh rate feels outdated."
+3,Samsung Galaxy S4,4.4,1470,Price,Camera quality,"The Samsung Galaxy S4 provides excellent value for its price, though some improvements in design are needed."
+4,Samsung Galaxy S5,3.9,961,Price,Camera quality,The camera on the Samsung Galaxy S5 performs well in good lighting but struggles in low-light conditions.
+5,Samsung Galaxy S6,4.5,1059,Price,Camera quality,"The build quality of the Samsung Galaxy S6 feels premium, but it could be lighter for easier handling."
+6,Samsung Galaxy S6 Edge,3.9,1809,Price,Camera quality,"The Samsung Galaxy S6 Edge offers a user-friendly interface, although the charging speed could be faster."
+7,Samsung Galaxy S7,4.4,842,Price,Camera quality,"The Samsung Galaxy S7 is a solid performer overall, but improvements in customer support are needed."
+8,Samsung Galaxy S7 Edge,4.5,1903,Price,Camera quality,"Performance on the Samsung Galaxy S7 Edge is impressive, but software updates are less frequent than expected."
+9,Samsung Galaxy S8,4.6,1254,Price,Camera quality,"Sound quality on the Samsung Galaxy S8 is exceptional, but the storage options could be more versatile."
+10,Samsung Galaxy S8+,4.8,1541,Price,Camera quality,"The Samsung Galaxy S8+ is highly durable and reliable, but its screen refresh rate feels outdated."
+11,Samsung Galaxy S9,4.5,1898,Price,Camera quality,"The Samsung Galaxy S9 delivers on all fronts, though its price might be steep for some users."
+12,Samsung Galaxy S9+,4.7,1597,Price,Camera quality,"The Samsung Galaxy S9+ offers a user-friendly interface, although the charging speed could be faster."
+13,Samsung Galaxy S10,4.1,1719,Price,Camera quality,"The build quality of the Samsung Galaxy S10 feels premium, but it could be lighter for easier handling."
+14,Samsung Galaxy S10+,3.6,840,Price,Camera quality,"The Samsung Galaxy S10+ is a solid performer overall, but improvements in customer support are needed."
+15,Samsung Galaxy S10e,4.2,1935,Price,Camera quality,"The Samsung Galaxy S10e is highly durable and reliable, but its screen refresh rate feels outdated."
+16,Samsung Galaxy S20,4.0,1853,Price,Camera quality,"The Samsung Galaxy S20 delivers on all fronts, though its price might be steep for some users."
+17,Samsung Galaxy S20+,4.6,1025,Price,Camera quality,"Sound quality on the Samsung Galaxy S20+ is exceptional, but the storage options could be more versatile."
+18,Samsung Galaxy S20 Ultra,4.6,1905,Performance,Camera quality,"The Samsung Galaxy S20 Ultra offers a user-friendly interface, although the charging speed could be faster."
+19,Samsung Galaxy S21,3.6,1685,Price,Camera quality,"The Samsung Galaxy S21 is highly durable and reliable, but its screen refresh rate feels outdated."
+20,Samsung Galaxy S21+,4.3,648,Price,Camera quality,"Using the Samsung Galaxy S21+ has been a smooth experience, but battery life could be longer."
+21,Samsung Galaxy S21 Ultra,4.4,633,Performance,Camera quality,"The build quality of the Samsung Galaxy S21 Ultra feels premium, but it could be lighter for easier handling."
+22,Samsung Galaxy S22+,3.6,953,Price,Camera quality,"Performance on the Samsung Galaxy S22+ is impressive, but software updates are less frequent than expected."
+23,Samsung Galaxy S22 Ultra,3.6,1482,Performance,Camera quality,"The Samsung Galaxy S22 Ultra provides excellent value for its price, though some improvements in design are needed."
+24,Samsung Galaxy S23+,4.8,773,Price,Camera quality,"The build quality of the Samsung Galaxy S23+ feels premium, but it could be lighter for easier handling."
+25,Samsung Galaxy S23 Ultra,4.4,1546,Performance,Camera quality,"Using the Samsung Galaxy S23 Ultra has been a smooth experience, but battery life could be longer."
+26,Samsung Galaxy S24+,4.9,935,Price,Camera quality,"The Samsung Galaxy S24+ offers a user-friendly interface, although the charging speed could be faster."
+27,Samsung Galaxy Note,4.9,1055,Price,Battery life,The camera on the Samsung Galaxy Note performs well in good lighting but struggles in low-light conditions.
+28,Samsung Galaxy Note II,4.8,1285,Price,Battery life,"The Samsung Galaxy Note II provides excellent value for its price, though some improvements in design are needed."
+29,Samsung Galaxy Note 3,4.9,1545,Price,Battery life,"Performance on the Samsung Galaxy Note 3 is impressive, but software updates are less frequent than expected."
+30,Samsung Galaxy Note 4,3.5,587,Price,Battery life,"The Samsung Galaxy Note 4 offers a user-friendly interface, although the charging speed could be faster."
+31,Samsung Galaxy Note 5,4.7,1151,Price,Battery life,"The Samsung Galaxy Note 5 offers a user-friendly interface, although the charging speed could be faster."
+32,Samsung Galaxy Note 7,4.5,1431,Price,Battery life,"The Samsung Galaxy Note 7 provides excellent value for its price, though some improvements in design are needed."
+33,Samsung Galaxy Note 8,3.5,1574,Price,Battery life,"Using the Samsung Galaxy Note 8 has been a smooth experience, but battery life could be longer."
+34,Samsung Galaxy Note 9,4.7,1991,Price,Battery life,"Sound quality on the Samsung Galaxy Note 9 is exceptional, but the storage options could be more versatile."
+35,Samsung Galaxy Note 10,4.4,762,Price,Battery life,"Sound quality on the Samsung Galaxy Note 10 is exceptional, but the storage options could be more versatile."
+36,Samsung Galaxy Note 10+,4.1,545,Price,Battery life,"The Samsung Galaxy Note 10+ is a solid performer overall, but improvements in customer support are needed."
+37,Samsung Galaxy Note 20,4.4,1872,Price,Battery life,"The Samsung Galaxy Note 20 offers a user-friendly interface, although the charging speed could be faster."
+38,Samsung Galaxy Note 20 Ultra,4.0,1838,Performance,Battery life,The camera on the Samsung Galaxy Note 20 Ultra performs well in good lighting but struggles in low-light conditions.
+39,Samsung Galaxy A3,4.9,982,Price,Camera quality,"The Samsung Galaxy A3 offers a user-friendly interface, although the charging speed could be faster."
+40,Samsung Galaxy A5,4.1,537,Price,Camera quality,The camera on the Samsung Galaxy A5 performs well in good lighting but struggles in low-light conditions.
+41,Samsung Galaxy A7,4.2,971,Price,Camera quality,The camera on the Samsung Galaxy A7 performs well in good lighting but struggles in low-light conditions.
+42,Samsung Galaxy A50,4.4,1181,Price,Camera quality,"The Samsung Galaxy A50 is a solid performer overall, but improvements in customer support are needed."
+43,Samsung Galaxy A51,3.7,632,Price,Camera quality,"Using the Samsung Galaxy A51 has been a smooth experience, but battery life could be longer."
+44,Samsung Galaxy A52,4.4,1609,Price,Camera quality,"The Samsung Galaxy A52 offers a user-friendly interface, although the charging speed could be faster."
+45,Samsung Galaxy A53,4.8,853,Price,Camera quality,The camera on the Samsung Galaxy A53 performs well in good lighting but struggles in low-light conditions.
+46,Samsung Galaxy A54,3.8,1798,Price,Camera quality,"Using the Samsung Galaxy A54 has been a smooth experience, but battery life could be longer."
+47,Samsung Galaxy Z Fold,3.5,1678,Price,Camera quality,"The Samsung Galaxy Z Fold provides excellent value for its price, though some improvements in design are needed."
+48,Samsung Galaxy Z Flip,4.8,704,Price,Camera quality,"The Samsung Galaxy Z Flip provides excellent value for its price, though some improvements in design are needed."
+49,Samsung Galaxy Z Fold 2,4.6,1178,Price,Camera quality,"The Samsung Galaxy Z Fold 2 offers a user-friendly interface, although the charging speed could be faster."
+50,Samsung Galaxy Z Flip 3,4.6,1578,Price,Camera quality,"The build quality of the Samsung Galaxy Z Flip 3 feels premium, but it could be lighter for easier handling."
+51,Samsung Galaxy Z Fold 3,3.9,1911,Price,Camera quality,"The Samsung Galaxy Z Fold 3 is highly durable and reliable, but its screen refresh rate feels outdated."
+52,Samsung Galaxy Z Flip 4,4.8,1550,Price,Camera quality,"The build quality of the Samsung Galaxy Z Flip 4 feels premium, but it could be lighter for easier handling."
+53,Samsung Galaxy Z Fold 4,4.0,1185,Price,Camera quality,"Performance on the Samsung Galaxy Z Fold 4 is impressive, but software updates are less frequent than expected."
+54,Samsung Galaxy Z Flip 5,4.1,1024,Price,Camera quality,"The Samsung Galaxy Z Flip 5 is a solid performer overall, but improvements in customer support are needed."
+55,Samsung Galaxy Z Fold 5,4.6,658,Price,Camera quality,"The Samsung Galaxy Z Fold 5 is a solid performer overall, but improvements in customer support are needed."
+56,Samsung Galaxy Z Flip 6,4.8,864,Price,Camera quality,"Using the Samsung Galaxy Z Flip 6 has been a smooth experience, but battery life could be longer."
+57,Samsung Galaxy Z Fold 6,3.9,1569,Price,Camera quality,"The Samsung Galaxy Z Fold 6 is a solid performer overall, but improvements in customer support are needed."
+58,iPhone,4.6,591,Price,Camera quality,"The build quality of the iPhone feels premium, but it could be lighter for easier handling."
+59,iPhone 3G,4.7,802,Price,Camera quality,"The build quality of the iPhone 3G feels premium, but it could be lighter for easier handling."
+60,iPhone 3GS,4.7,1225,Price,Camera quality,"The iPhone 3GS provides excellent value for its price, though some improvements in design are needed."
+61,iPhone 4,4.4,541,Price,Camera quality,"The build quality of the iPhone 4 feels premium, but it could be lighter for easier handling."
+62,iPhone 4S,4.8,1227,Price,Camera quality,"The iPhone 4S is a solid performer overall, but improvements in customer support are needed."
+63,iPhone 5,4.2,1618,Price,Camera quality,"The iPhone 5 is highly durable and reliable, but its screen refresh rate feels outdated."
+64,iPhone 5c,3.7,1558,Price,Camera quality,"Using the iPhone 5c has been a smooth experience, but battery life could be longer."
+65,iPhone 5s,3.5,632,Price,Camera quality,The camera on the iPhone 5s performs well in good lighting but struggles in low-light conditions.
+66,iPhone 6,4.6,1576,Price,Camera quality,"The iPhone 6 offers a user-friendly interface, although the charging speed could be faster."
+67,iPhone 6 Plus,4.1,1215,Price,Camera quality,"Performance on the iPhone 6 Plus is impressive, but software updates are less frequent than expected."
+68,iPhone 6s,4.1,1824,Price,Camera quality,"The build quality of the iPhone 6s feels premium, but it could be lighter for easier handling."
+69,iPhone 6s Plus,4.1,805,Price,Camera quality,The camera on the iPhone 6s Plus performs well in good lighting but struggles in low-light conditions.
+70,iPhone SE (1st generation),4.5,1078,Price,Camera quality,"The iPhone SE (1st generation) offers a user-friendly interface, although the charging speed could be faster."
+71,iPhone 7,3.9,1684,Performance,Camera,No Comment
+72,iPhone 7,3.9,1684,Performance,Camera,No Comment
+73,iPhone 7,3.9,1684,Performance,Camera,No Comment
+74,iPhone 7,3.9,1684,Performance,Camera,No Comment
+75,iPhone 7,3.9,1684,Performance,Camera,No Comment
+76,iPhone 7,3.9,1684,Performance,Camera,No Comment
+77,iPhone 7 Plus,3.7,1837,Price,Camera quality,"The iPhone 7 Plus delivers on all fronts, though its price might be steep for some users."
+78,iPhone 8,4.1,874,Price,Camera quality,"The iPhone 8 is highly durable and reliable, but its screen refresh rate feels outdated."
+79,iPhone 8 Plus,4.0,679,Price,Camera quality,"The build quality of the iPhone 8 Plus feels premium, but it could be lighter for easier handling."
+80,iPhone X,3.8,823,Performance,Camera,No Comment
+81,iPhone X,3.8,823,Performance,Camera,No Comment
+82,iPhone X,3.8,823,Performance,Camera,No Comment
+83,iPhone X,3.8,823,Performance,Camera,No Comment
+84,iPhone XR,3.9,1506,Price,Camera quality,"The iPhone XR provides excellent value for its price, though some improvements in design are needed."
+85,iPhone XS,4.7,1084,Price,Camera quality,"The iPhone XS provides excellent value for its price, though some improvements in design are needed."
+86,iPhone XS Max,4.2,1066,Price,Camera quality,"The iPhone XS Max is a solid performer overall, but improvements in customer support are needed."
+87,iPhone 11,4.1,1506,Price,Camera quality,"The iPhone 11 is a solid performer overall, but improvements in customer support are needed."
+88,iPhone 11 Pro,4.1,663,Performance,Camera quality,"Sound quality on the iPhone 11 Pro is exceptional, but the storage options could be more versatile."
+89,iPhone 11 Pro Max,4.1,1766,Performance,Camera quality,"Performance on the iPhone 11 Pro Max is impressive, but software updates are less frequent than expected."
+90,iPhone SE (2nd generation),4.0,1428,Price,Camera quality,"Using the iPhone SE (2nd generation) has been a smooth experience, but battery life could be longer."
+91,iPhone 12,3.8,1299,Performance,Camera,No Comment
+92,iPhone 12,3.8,1299,Performance,Camera,No Comment
+93,iPhone 12,3.8,1299,Performance,Camera,No Comment
+94,iPhone 12,3.8,1299,Performance,Camera,No Comment
+95,iPhone 12 mini,4.3,1618,Price,Camera quality,"Using the iPhone 12 mini has been a smooth experience, but battery life could be longer."
+96,iPhone 12 Pro,4.2,1120,Performance,Camera quality,"The iPhone 12 Pro offers a user-friendly interface, although the charging speed could be faster."
+97,iPhone 12 Pro Max,3.7,1003,Performance,Camera quality,"The iPhone 12 Pro Max offers a user-friendly interface, although the charging speed could be faster."
+98,iPhone 13,4.7,1202,Performance,Camera,No Comment
+99,iPhone 13,4.7,1202,Performance,Camera,No Comment
+100,iPhone 13,4.7,1202,Performance,Camera,No Comment
+101,iPhone 13,4.7,1202,Performance,Camera,No Comment
+102,iPhone 13,4.7,1202,Performance,Camera,No Comment
+103,iPhone 13,4.7,1202,Performance,Camera,No Comment
+104,iPhone 13,4.7,1202,Performance,Camera,No Comment
+105,iPhone 13,4.7,1202,Performance,Camera,No Comment
+106,iPhone 13,4.7,1202,Performance,Camera,No Comment
+107,iPhone 13,4.7,1202,Performance,Camera,No Comment
+108,iPhone 13,4.7,1202,Performance,Camera,No Comment
+109,iPhone 13,4.7,1202,Performance,Camera,No Comment
+110,iPhone 13 mini,4.7,1245,Price,Camera quality,"Performance on the iPhone 13 mini is impressive, but software updates are less frequent than expected."
+111,iPhone 13 Pro,4.1,1350,Performance,Camera quality,"The iPhone 13 Pro offers a user-friendly interface, although the charging speed could be faster."
+112,iPhone 13 Pro Max,4.0,957,Performance,Camera quality,"Sound quality on the iPhone 13 Pro Max is exceptional, but the storage options could be more versatile."
+113,iPhone SE (3rd generation),4.2,524,Price,Camera quality,The camera on the iPhone SE (3rd generation) performs well in good lighting but struggles in low-light conditions.
+114,iPhone 14,3.5,858,Price,Camera quality,"The iPhone 14 provides excellent value for its price, though some improvements in design are needed."
+115,iPhone 14 Plus,4.7,1424,Price,Camera quality,"The iPhone 14 Plus is highly durable and reliable, but its screen refresh rate feels outdated."
+116,iPhone 14 Pro,3.7,1361,Performance,Camera quality,"The iPhone 14 Pro offers a user-friendly interface, although the charging speed could be faster."
+117,iPhone 14 Pro Max,4.4,1041,Performance,Camera quality,"The iPhone 14 Pro Max is a solid performer overall, but improvements in customer support are needed."
+118,iPhone 15,4.8,1463,Price,Camera quality,"Using the iPhone 15 has been a smooth experience, but battery life could be longer."
+119,iPhone 15 Plus,4.4,1039,Price,Camera quality,"The iPhone 15 Plus delivers on all fronts, though its price might be steep for some users."
+120,iPhone 15 Pro,4.7,688,Performance,Camera quality,"Performance on the iPhone 15 Pro is impressive, but software updates are less frequent than expected."
+121,iPhone 15 Pro Max,4.8,1641,Performance,Camera quality,"The build quality of the iPhone 15 Pro Max feels premium, but it could be lighter for easier handling."
+122,iPhone 16,3.9,1717,Price,Camera quality,"Using the iPhone 16 has been a smooth experience, but battery life could be longer."
+123,iPhone 16 Plus,4.2,1793,Price,Camera quality,"Sound quality on the iPhone 16 Plus is exceptional, but the storage options could be more versatile."
+124,iPhone 16 Pro,4.7,1215,Performance,Camera quality,"The iPhone 16 Pro delivers on all fronts, though its price might be steep for some users."
+125,iPhone 16 Pro Max,3.5,968,Performance,Camera quality,"The iPhone 16 Pro Max provides excellent value for its price, though some improvements in design are needed."
+126,Samsung Galaxy S24,4.5,1200,Display quality,Battery life,"The display is vibrant and clear, but the battery doesn't last as long as expected."
+127,Apple iPhone 16,4.7,1500,Camera performance,Price,"Excellent camera quality, but it's quite expensive."
+128,Samsung Galaxy S24 Ultra,4.6,1100,Camera versatility,Size,"Amazing camera features, but the phone feels a bit bulky."
+129,Apple iPhone 16 Pro Max,4.8,1300,Performance speed,Weight,"Super fast and responsive, though it's slightly heavier than previous models."
+130,Samsung Galaxy S24 FE,4.0,900,Affordable price,Camera quality,"Great value for money, but the camera could be better."
+131,Apple iPhone 15,4.5,1400,User-friendly OS,Battery life,"iOS is very intuitive, but I wish the battery lasted longer."
+132,Samsung Galaxy S23,4.4,1300,Design aesthetics,Charging speed,"Sleek design, but charging takes longer than expected."
+133,Apple iPhone 14,4.3,1200,Build quality,Screen refresh rate,"Solid build, but the screen's refresh rate feels outdated."
+134,Samsung Galaxy S22,4.2,1100,Performance,Software updates,"Runs smoothly, but software updates are less frequent."
+135,Apple iPhone 13,4.4,1300,Battery life,Camera features,"Battery lasts all day, but the camera lacks some modern features."

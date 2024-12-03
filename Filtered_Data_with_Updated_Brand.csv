@@ -1,0 +1,1324 @@
+,Model,Brand,Rating,Number of Reviews
+7,"APPLE IPhone 4 (Black, 8 GB)",Apple,4.5,0
+8,"APPLE IPhone 4 (White, 8 GB)",Apple,4.6,0
+9,"APPLE iPhone 11 (Black, 128 GB)",Apple,4.6,0
+10,"APPLE iPhone 11 (Black, 64 GB)",Apple,4.6,0
+11,"APPLE iPhone 11 (Purple, 128 GB)",Apple,4.5,0
+12,"APPLE iPhone 11 (Purple, 64 GB)",Apple,4.6,0
+13,"APPLE iPhone 11 (Red, 128 GB)",Apple,4.6,0
+14,"APPLE iPhone 11 (White, 128 GB)",Apple,4.6,0
+15,"APPLE iPhone 11 (White, 64 GB)",Apple,4.6,0
+16,"APPLE iPhone 11 (Yellow, 64 GB)",Apple,4.55,0
+17,"APPLE iPhone 11 Pro (Gold, 256 GB)",Apple,4.4,0
+18,"APPLE iPhone 11 Pro (Gold, 512 GB)",Apple,4.5,0
+19,"APPLE iPhone 11 Pro (Gold, 64 GB)",Apple,4.5,0
+20,"APPLE iPhone 11 Pro (Midnight Green, 256 GB)",Apple,4.6,0
+21,"APPLE iPhone 11 Pro (Midnight Green, 64 GB)",Apple,4.6,0
+22,"APPLE iPhone 11 Pro (Silver, 256 GB)",Apple,4.5,0
+23,"APPLE iPhone 11 Pro (Silver, 512 GB)",Apple,4.6,0
+24,"APPLE iPhone 11 Pro (Silver, 64 GB)",Apple,4.6,0
+25,"APPLE iPhone 11 Pro (Space Grey, 256 GB)",Apple,4.4,0
+26,"APPLE iPhone 11 Pro (Space Grey, 512 GB)",Apple,4.6,0
+27,"APPLE iPhone 11 Pro (Space Grey, 64 GB)",Apple,4.6,0
+28,"APPLE iPhone 11 Pro Max (Gold, 256 GB)",Apple,4.5,0
+29,"APPLE iPhone 11 Pro Max (Midnight Green, 256 GB)",Apple,4.7,0
+30,"APPLE iPhone 11 Pro Max (Midnight Green, 512 GB)",apple,4.5,0
+31,"APPLE iPhone 11 Pro Max (Midnight Green, 64 GB)",apple,4.7,0
+32,"APPLE iPhone 11 Pro Max (Silver, 256 GB)",apple,4.5,0
+33,"APPLE iPhone 11 Pro Max (Silver, 512 GB)",Apple,4.5,0
+34,"APPLE iPhone 11 Pro Max (Silver, 64 GB)",Apple,4.6,0
+35,"APPLE iPhone 11 Pro Max (Space Grey, 256 GB)",Apple,4.5,0
+36,"APPLE iPhone 11 Pro Max (Space Grey, 512 GB)",Apple,4.7,0
+37,"APPLE iPhone 11 Pro Max (Space Grey, 64 GB)",Apple,4.6,0
+38,"APPLE iPhone 12 (Black, 256 GB)",Apple,4.6,0
+39,"APPLE iPhone 12 (Black, 64 GB)",Apple,4.6,0
+40,"APPLE iPhone 12 (Blue, 128 GB)",Apple,4.6,0
+41,"APPLE iPhone 12 (Blue, 256 GB)",Apple,4.6,0
+42,"APPLE iPhone 12 (Blue, 64 GB)",Apple,4.6,0
+43,"APPLE iPhone 12 (Green, 128 GB)",Apple,4.5,0
+44,"APPLE iPhone 12 (Green, 256 GB)",Apple,4.6,0
+45,"APPLE iPhone 12 (Green, 64 GB)",Apple,4.6,0
+46,"APPLE iPhone 12 (Purple, 128 GB)",Apple,4.6,0
+47,"APPLE iPhone 12 (Purple, 256 GB)",Apple,4.5,0
+48,"APPLE iPhone 12 (Purple, 64 GB)",Apple,4.6,0
+49,"APPLE iPhone 12 (Red, 128 GB)",Apple,4.6,0
+50,"APPLE iPhone 12 (Red, 256 GB)",Apple,4.5,0
+51,"APPLE iPhone 12 (Red, 64 GB)",Apple,4.6,0
+52,"APPLE iPhone 12 (White, 128 GB)",Apple,4.6,0
+53,"APPLE iPhone 12 (White, 256 GB)",Apple,4.5,0
+54,"APPLE iPhone 12 (White, 64 GB)",Apple,4.6,0
+55,"APPLE iPhone 12 Pro (Gold, 128 GB)",Apple,4.6,0
+56,"APPLE iPhone 12 Pro (Gold, 256 GB)",Apple,4.5,0
+57,"APPLE iPhone 12 Pro (Gold, 512 GB)",Apple,4.5,0
+58,"APPLE iPhone 12 Pro (Graphite, 128 GB)",Apple,3.9,0
+59,"APPLE iPhone 12 Pro (Graphite, 256 GB)",Apple,4.6,0
+60,"APPLE iPhone 12 Pro (Graphite, 512 GB)",Apple,4.7,0
+61,"APPLE iPhone 12 Pro (Pacific Blue, 256 GB)",Apple,4.5,0
+62,"APPLE iPhone 12 Pro (Pacific Blue, 512 GB)",Apple,4.7,0
+63,"APPLE iPhone 12 Pro (Silver, 128 GB)",Apple,4.5,0
+64,"APPLE iPhone 12 Pro (Silver, 256 GB)",Apple,4.5,0
+65,"APPLE iPhone 12 Pro (Silver, 512 GB)",Apple,4.5,0
+66,"APPLE iPhone 12 Pro Max (Gold, 128 GB)",Apple,4.5,0
+67,"APPLE iPhone 12 Pro Max (Gold, 512 GB)",Apple,4.6,0
+68,"APPLE iPhone 12 Pro Max (Graphite, 128 GB)",Apple,4.5,0
+69,"APPLE iPhone 12 Pro Max (Graphite, 256 GB)",Apple,3.9,0
+70,"APPLE iPhone 12 Pro Max (Graphite, 512 GB)",Apple,4.5,0
+71,"APPLE iPhone 12 Pro Max (Pacific Blue, 128 GB)",Apple,4.7,0
+72,"APPLE iPhone 12 Pro Max (Pacific Blue, 256 GB)",Apple,5,0
+73,"APPLE iPhone 12 Pro Max (Pacific Blue, 512 GB)",Apple,4.5,0
+74,"APPLE iPhone 12 Pro Max (Silver, 128 GB)",Apple,4.6,0
+75,"APPLE iPhone 12 Pro Max (Silver, 256 GB)",Apple,4.7,0
+76,"APPLE iPhone 12 Pro Max (Silver, 512 GB)",Apple,4.5,0
+77,"APPLE iPhone 12 mini (Black, 128 GB)",Apple,4.4,0
+78,"APPLE iPhone 12 mini (Black, 256 GB)",Apple,4.7,0
+79,"APPLE iPhone 12 mini (Black, 64 GB)",Apple,4.5,0
+80,"APPLE iPhone 12 mini (Blue, 128 GB)",Apple,4.5,0
+81,"APPLE iPhone 12 mini (Blue, 64 GB)",Apple,4.5,0
+82,"APPLE iPhone 12 mini (Green, 128 GB)",Apple,4.5,0
+83,"APPLE iPhone 12 mini (Green, 256 GB)",Apple,4.6,0
+84,"APPLE iPhone 12 mini (Green, 64 GB)",Apple,4.6,0
+85,"APPLE iPhone 12 mini (Purple, 128 GB)",Apple,4.4,0
+86,"APPLE iPhone 12 mini (Purple, 64 GB)",Apple,4.7,0
+87,"APPLE iPhone 12 mini (Red, 128 GB)",Apple,4.5,0
+88,"APPLE iPhone 12 mini (Red, 256 GB)",Apple,4.5,0
+89,"APPLE iPhone 12 mini (Red, 64 GB)",Apple,4.5,0
+90,"APPLE iPhone 12 mini (White, 128 GB)",Apple,4.6,0
+91,"APPLE iPhone 12 mini (White, 256 GB)",Apple,4.5,0
+92,"APPLE iPhone 12 mini (White, 64 GB)",Apple,4.5,0
+93,"APPLE iPhone 13 ((PRODUCT)RED, 128 GB)",Apple,4.7,0
+94,"APPLE iPhone 13 ((PRODUCT)RED, 256 GB)",Apple,4.7,0
+95,"APPLE iPhone 13 (Blue, 128 GB)",Apple,4.7,0
+96,"APPLE iPhone 13 (Blue, 256 GB)",Apple,4.7,0
+97,"APPLE iPhone 13 (Blue, 512 GB)",Apple,4.7,0
+98,"APPLE iPhone 13 (Green, 128 GB)",Apple,4.7,0
+99,"APPLE iPhone 13 (Green, 512 GB)",Apple,4.7,0
+100,"APPLE iPhone 13 (Midnight, 128 GB)",Apple,4.7,0
+101,"APPLE iPhone 13 (Midnight, 512 GB)",Apple,4.7,0
+102,"APPLE iPhone 13 (Pink, 256 GB)",Apple,4.7,0
+103,"APPLE iPhone 13 (Pink, 512 GB)",Apple,4.5,0
+104,"APPLE iPhone 13 (Starlight, 128 GB)",Apple,4.7,0
+105,"APPLE iPhone 13 (Starlight, 256 GB)",Apple,4.7,0
+106,"APPLE iPhone 13 (Starlight, 512 GB)",Apple,4.7,0
+107,"APPLE iPhone 13 Pro (Alpine Green, 1 TB)",Apple,4.7,0
+108,"APPLE iPhone 13 Pro (Alpine Green, 256 GB)",Apple,4.6,0
+109,"APPLE iPhone 13 Pro (Alpine Green, 512 GB)",Apple,4.7,0
+110,"APPLE iPhone 13 Pro (Gold, 1 TB)",Apple,4.7,0
+111,"APPLE iPhone 13 Pro (Gold, 128 GB)",Apple,4.7,0
+112,"APPLE iPhone 13 Pro (Gold, 256 GB)",Apple,4.7,0
+113,"APPLE iPhone 13 Pro (Gold, 512 GB)",Apple,4.7,0
+114,"APPLE iPhone 13 Pro (Graphite, 1 TB)",Apple,4.7,0
+115,"APPLE iPhone 13 Pro (Graphite, 128 GB)",Apple,4.7,0
+116,"APPLE iPhone 13 Pro (Graphite, 256 GB)",Apple,4.7,0
+117,"APPLE iPhone 13 Pro (Graphite, 512 GB)",Apple,4.6,0
+118,"APPLE iPhone 13 Pro (Sierra Blue, 128 GB)",Apple,3.9,0
+119,"APPLE iPhone 13 Pro (Sierra Blue, 256 GB)",Apple,4.5,0
+120,"APPLE iPhone 13 Pro (Silver, 1 TB)",Apple,4.7,0
+121,"APPLE iPhone 13 Pro (Silver, 128 GB)",Apple,4.6,0
+122,"APPLE iPhone 13 Pro (Silver, 256 GB)",Apple,4.7,0
+123,"APPLE iPhone 13 Pro (Silver, 512 GB)",Apple,4.7,0
+124,"APPLE iPhone 13 Pro Max (Alpine Green, 1 TB)",Apple,4.6,0
+125,"APPLE iPhone 13 Pro Max (Alpine Green, 128 GB)",Apple,4.6,0
+126,"APPLE iPhone 13 Pro Max (Alpine Green, 256 GB)",Apple,4.6,0
+127,"APPLE iPhone 13 Pro Max (Alpine Green, 512 GB)",Apple,4.6,0
+128,"APPLE iPhone 13 Pro Max (Gold, 128 GB)",Apple,4.6,0
+129,"APPLE iPhone 13 Pro Max (Gold, 512 GB)",Apple,4.6,0
+130,"APPLE iPhone 13 Pro Max (Graphite, 1 TB)",Apple,4.6,0
+131,"APPLE iPhone 13 Pro Max (Graphite, 128 GB)",Apple,4.5,0
+132,"APPLE iPhone 13 Pro Max (Graphite, 256 GB)",Apple,4.6,0
+133,"APPLE iPhone 13 Pro Max (Graphite, 512 GB)",Apple,4.6,0
+134,"APPLE iPhone 13 Pro Max (Sierra Blue, 1 TB)",Apple,4.6,0
+135,"APPLE iPhone 13 Pro Max (Sierra Blue, 256 GB)",Apple,4.6,0
+136,"APPLE iPhone 13 Pro Max (Sierra Blue, 512 GB)",Apple,4.6,0
+137,"APPLE iPhone 13 Pro Max (Silver, 1 TB)",Apple,4.6,0
+138,"APPLE iPhone 13 Pro Max (Silver, 256 GB)",Apple,4.6,0
+139,"APPLE iPhone 13 Pro Max (Silver, 512 GB)",Apple,4.6,0
+140,"APPLE iPhone 13 mini ((PRODUCT)RED, 128 GB)",Apple,4.7,0
+141,"APPLE iPhone 13 mini ((PRODUCT)RED, 256 GB)",Apple,4.7,0
+142,"APPLE iPhone 13 mini (Blue, 128 GB)",Apple,4.6,0
+143,"APPLE iPhone 13 mini (Blue, 256 GB)",Apple,4.7,0
+144,"APPLE iPhone 13 mini (Blue, 512 GB)",Apple,4.5,0
+145,"APPLE iPhone 13 mini (Green, 128 GB)",Apple,4.7,0
+146,"APPLE iPhone 13 mini (Green, 256 GB)",Apple,4.5,0
+147,"APPLE iPhone 13 mini (Midnight, 128 GB)",Apple,4.5,0
+148,"APPLE iPhone 13 mini (Midnight, 256 GB)",Apple,4.5,0
+149,"APPLE iPhone 13 mini (Midnight, 512 GB)",Apple,4.6,0
+150,"APPLE iPhone 13 mini (Pink, 128 GB)",Apple,4.4,0
+151,"APPLE iPhone 13 mini (Pink, 256 GB)",Apple,4.5,0
+152,"APPLE iPhone 13 mini (Pink, 512 GB)",Apple,4.6,0
+153,"APPLE iPhone 13 mini (Starlight, 128 GB)",Apple,4.5,0
+154,"APPLE iPhone 13 mini (Starlight, 256 GB)",Apple,4.6,0
+155,"APPLE iPhone 13 mini (Starlight, 512 GB)",Apple,4.6,0
+156,"APPLE iPhone 14 ((PRODUCT)RED, 128 GB)",Apple,4.6,0
+157,"APPLE iPhone 14 ((PRODUCT)RED, 512 GB)",Apple,4.6,0
+158,"APPLE iPhone 14 (Blue, 256 GB)",Apple,4.6,0
+159,"APPLE iPhone 14 (Blue, 512 GB)",Apple,4.6,0
+160,"APPLE iPhone 14 (Midnight, 128 GB)",Apple,4.6,0
+161,"APPLE iPhone 14 (Midnight, 512 GB)",Apple,4.6,0
+162,"APPLE iPhone 14 (Purple, 128 GB)",Apple,4.6,0
+163,"APPLE iPhone 14 (Purple, 256 GB)",Apple,4.6,0
+164,"APPLE iPhone 14 (Purple, 512 GB)",Apple,4.6,0
+165,"APPLE iPhone 14 (Starlight, 128 GB)",Apple,4.6,0
+166,"APPLE iPhone 14 (Starlight, 256 GB)",Apple,4.6,0
+167,"APPLE iPhone 14 (Starlight, 512 GB)",Apple,4.6,0
+168,"APPLE iPhone 14 (Yellow, 128 GB)",Apple,4.6,0
+169,"APPLE iPhone 14 (Yellow, 256 GB)",Apple,4.6,0
+170,"APPLE iPhone 14 (Yellow, 512 GB)",Apple,4.6,0
+171,"APPLE iPhone 14 Plus ((PRODUCT)RED, 128 GB)",Apple,4.6,0
+172,"APPLE iPhone 14 Plus ((PRODUCT)RED, 256 GB)",Apple,4.5,0
+173,"APPLE iPhone 14 Plus (Blue, 128 GB)",Apple,4.6,0
+174,"APPLE iPhone 14 Plus (Blue, 256 GB)",Apple,4.6,0
+175,"APPLE iPhone 14 Plus (Blue, 512 GB)",Apple,4.6,0
+176,"APPLE iPhone 14 Plus (Midnight, 256 GB)",Apple,4.4,0
+177,"APPLE iPhone 14 Plus (Midnight, 512 GB)",Apple,4.6,0
+178,"APPLE iPhone 14 Plus (Purple, 256 GB)",Apple,4.4,0
+179,"APPLE iPhone 14 Plus (Purple, 512 GB)",Apple,4.6,0
+180,"APPLE iPhone 14 Plus (Starlight, 128 GB)",Apple,4.6,0
+181,"APPLE iPhone 14 Plus (Starlight, 256 GB)",Apple,4.6,0
+182,"APPLE iPhone 14 Plus (Yellow, 128 GB)",Apple,4.7,0
+183,"APPLE iPhone 14 Plus (Yellow, 256 GB)",Apple,4.7,0
+184,"APPLE iPhone 14 Plus (Yellow, 512 GB)",Apple,4.6,0
+185,"APPLE iPhone 14 Pro (Deep Purple, 1 TB)",Apple,4.7,0
+186,"APPLE iPhone 14 Pro (Deep Purple, 128 GB)",Apple,4.7,0
+187,"APPLE iPhone 14 Pro (Deep Purple, 256 GB)",Apple,4.7,0
+188,"APPLE iPhone 14 Pro (Deep Purple, 512 GB)",Apple,4.7,0
+189,"APPLE iPhone 14 Pro (Gold, 128 GB)",Apple,4.7,0
+190,"APPLE iPhone 14 Pro (Gold, 256 GB)",Apple,4.7,0
+191,"APPLE iPhone 14 Pro (Gold, 512 GB)",Apple,4.7,0
+192,"APPLE iPhone 14 Pro (Silver, 1 TB)",Apple,4.7,0
+193,"APPLE iPhone 14 Pro (Silver, 128 GB)",Apple,4.7,0
+194,"APPLE iPhone 14 Pro (Silver, 256 GB)",Apple,4.7,0
+195,"APPLE iPhone 14 Pro (Silver, 512 GB)",Apple,4.7,0
+196,"APPLE iPhone 14 Pro (Space Black, 128 GB)",Apple,4.7,0
+197,"APPLE iPhone 14 Pro (Space Black, 256 GB)",Apple,4.7,0
+198,"APPLE iPhone 14 Pro Max (Deep Purple, 1 TB)",Apple,4.7,0
+199,"APPLE iPhone 14 Pro Max (Deep Purple, 128 GB)",Apple,4.7,0
+200,"APPLE iPhone 14 Pro Max (Deep Purple, 256 GB)",Apple,4.6,0
+201,"APPLE iPhone 14 Pro Max (Deep Purple, 512 GB)",Apple,4.7,0
+202,"APPLE iPhone 14 Pro Max (Gold, 1 TB)",Apple,4.7,0
+203,"APPLE iPhone 14 Pro Max (Gold, 128 GB)",Apple,4.7,0
+204,"APPLE iPhone 14 Pro Max (Gold, 512 GB)",Apple,4.7,0
+205,"APPLE iPhone 14 Pro Max (Silver, 1 TB)",Apple,4.7,0
+206,"APPLE iPhone 14 Pro Max (Silver, 128 GB)",Apple,4.7,0
+207,"APPLE iPhone 14 Pro Max (Silver, 256 GB)",Apple,4.5,0
+208,"APPLE iPhone 14 Pro Max (Silver, 512 GB)",Apple,4.6,0
+209,"APPLE iPhone 14 Pro Max (Space Black, 1 TB)",Apple,4.6,0
+210,"APPLE iPhone 14 Pro Max (Space Black, 128 GB)",Apple,4.7,0
+211,"APPLE iPhone 5C (Blue, 16 GB)",Apple,4.7,0
+212,"APPLE iPhone 5C (Blue, 8 GB)",Apple,4.6,0
+213,"APPLE iPhone 5C (Green, 16 GB)",Apple,4.5,0
+214,"APPLE iPhone 5C (Green, 8 GB)",Apple,3.9,0
+215,"APPLE iPhone 5C (Pink, 8 GB)",Apple,3.9,0
+216,"APPLE iPhone 5C (White, 16 GB)",Apple,4.5,0
+217,"APPLE iPhone 5C (White, 32 GB)",Apple,3.9,0
+218,"APPLE iPhone 5C (White, 8 GB)",Apple,4.5,0
+219,"APPLE iPhone 5s (Silver, 16 GB)",Apple,4.4,0
+220,"APPLE iPhone 5s (Space Grey, 16 GB)",Apple,4.4,0
+221,"APPLE iPhone 6 (Gold, 128 GB)",Apple,4.5,0
+222,"APPLE iPhone 6 (Gold, 32 GB)",Apple,4.4,0
+223,"APPLE iPhone 6 (Gold, 64 GB)",Apple,4.6,0
+224,"APPLE iPhone 6 (Grey, 128 GB)",Apple,4.6,0
+225,"APPLE iPhone 6 (Silver, 128 GB)",Apple,4.6,0
+226,"APPLE iPhone 6 (Silver, 16 GB)",Apple,4.4,0
+227,"APPLE iPhone 6 (Space Grey, 16 GB)",Apple,4.4,0
+228,"APPLE iPhone 6 (Space Grey, 32 GB)",Apple,4.4,0
+229,"APPLE iPhone 6 Plus (Gold, 128 GB)",Apple,4.5,0
+230,"APPLE iPhone 6 Plus (Gold, 64 GB)",Apple,4.5,0
+231,"APPLE iPhone 6 Plus (Silver, 128 GB)",Apple,4.5,0
+232,"APPLE iPhone 6 Plus (Silver, 16 GB)",Apple,4.5,0
+233,"APPLE iPhone 6 Plus (Silver, 64 GB)",Apple,4.6,0
+234,"APPLE iPhone 6 Plus (Space Grey, 128 GB)",Apple,4.7,0
+235,"APPLE iPhone 6 Plus (Space Grey, 16 GB)",Apple,4.5,0
+236,"APPLE iPhone 6 Plus (Space Grey, 64 GB)",Apple,4.5,0
+237,"APPLE iPhone 6s (Gold, 16 GB)",Apple,4.5,0
+238,"APPLE iPhone 6s (Gold, 32 GB)",Apple,4.5,0
+239,"APPLE iPhone 6s (Gold, 64 GB)",Apple,4.5,0
+240,"APPLE iPhone 6s (Rose Gold, 128 GB)",Apple,4.5,0
+241,"APPLE iPhone 6s (Rose Gold, 16 GB)",Apple,4.5,0
+242,"APPLE iPhone 6s (Rose Gold, 64 GB)",Apple,4.4,0
+243,"APPLE iPhone 6s (Silver, 128 GB)",Apple,4.6,0
+244,"APPLE iPhone 6s (Silver, 16 GB)",Apple,4.4,0
+245,"APPLE iPhone 6s (Silver, 32 GB)",Apple,4.5,0
+246,"APPLE iPhone 6s (Silver, 64 GB)",Apple,4.5,0
+247,"APPLE iPhone 6s (Space Grey, 16 GB)",Apple,4.5,0
+248,"APPLE iPhone 6s (Space Grey, 32 GB)",Apple,4.5,0
+249,"APPLE iPhone 6s (Space Grey, 64 GB)",Apple,4.5,0
+250,"APPLE iPhone 6s Plus (Gold, 128 GB)",Apple,4.6,0
+251,"APPLE iPhone 6s Plus (Gold, 16 GB)",Apple,4.4,0
+252,"APPLE iPhone 6s Plus (Gold, 32 GB)",Apple,4.4,0
+253,"APPLE iPhone 6s Plus (Gold, 64 GB)",Apple,4.5,0
+254,"APPLE iPhone 6s Plus (Rose Gold, 128 GB)",Apple,4.5,0
+255,"APPLE iPhone 6s Plus (Rose Gold, 16 GB)",Apple,4.5,0
+256,"APPLE iPhone 6s Plus (Silver, 128 GB)",Apple,4.4,0
+257,"APPLE iPhone 6s Plus (Silver, 32 GB)",Apple,4.7,0
+258,"APPLE iPhone 6s Plus (Silver, 64 GB)",Apple,4.5,0
+259,"APPLE iPhone 6s Plus (Space Grey, 16 GB)",Apple,4.5,0
+260,"APPLE iPhone 6s Plus (Space Grey, 32 GB)",Apple,4.5,0
+261,"APPLE iPhone 7 (Black, 128 GB)",Apple,4.5,0
+262,"APPLE iPhone 7 (Black, 256 GB)",Apple,4.6,0
+263,"APPLE iPhone 7 (Gold, 128 GB)",Apple,4.5,0
+264,"APPLE iPhone 7 (Gold, 256 GB)",Apple,4.6,0
+265,"APPLE iPhone 7 (Gold, 32 GB)",Apple,4.6,0
+266,"APPLE iPhone 7 (Jet Black, 256 GB)",Apple,4.5,0
+267,"APPLE iPhone 7 (Jet Black, 32 GB)",Apple,4.5,0
+268,"APPLE iPhone 7 (PRODUCT) (Red, 256 GB)",Apple,4.7,0
+269,"APPLE iPhone 7 (Red, 128 GB)",Apple,4.3,0
+270,"APPLE iPhone 7 (Rose Gold, 128 GB)",Apple,4.4,0
+271,"APPLE iPhone 7 (Rose Gold, 256 GB)",Apple,4.6,0
+272,"APPLE iPhone 7 (Rose Gold, 32 GB)",Apple,4.5,0
+273,"APPLE iPhone 7 (Silver, 128 GB)",Apple,4.55,0
+274,"APPLE iPhone 7 (Silver, 256 GB)",Apple,4.5,0
+275,"APPLE iPhone 7 (Silver, 32 GB)",Apple,4.4,0
+276,"APPLE iPhone 7 Plus (Black, 128 GB)",Apple,4.6,0
+277,"APPLE iPhone 7 Plus (Black, 256 GB)",Apple,4.5,0
+278,"APPLE iPhone 7 Plus (Gold, 128 GB)",Apple,4.6,0
+279,"APPLE iPhone 7 Plus (Gold, 256 GB)",Apple,4.6,0
+280,"APPLE iPhone 7 Plus (Gold, 32 GB)",Apple,4.5,0
+281,"APPLE iPhone 7 Plus (Jet Black, 128 GB)",Apple,4.5,0
+282,"APPLE iPhone 7 Plus (Jet Black, 256 GB)",Apple,4.5,0
+283,"APPLE iPhone 7 Plus (Rose Gold, 128 GB)",Apple,3.9,0
+284,"APPLE iPhone 7 Plus (Rose Gold, 256 GB)",Apple,4.5,0
+285,"APPLE iPhone 7 Plus (Rose Gold, 32 GB)",Apple,4.7,0
+286,"APPLE iPhone 7 Plus (Silver, 128 GB)",Apple,4.5,0
+287,"APPLE iPhone 7 Plus (Silver, 256 GB)",Apple,4.5,0
+288,"APPLE iPhone 8 (Gold, 256 GB)",Apple,4.5,0
+289,"APPLE iPhone 8 (PRODUCT)RED (Red, 256 GB)",Apple,4.7,0
+290,"APPLE iPhone 8 (Silver, 256 GB)",Apple,4.5,0
+291,"APPLE iPhone 8 (Silver, 64 GB)",Apple,4.5,0
+292,"APPLE iPhone 8 (Space Grey, 256 GB)",Apple,4.5,0
+293,"APPLE iPhone 8 (Space Grey, 64 GB)",Apple,4.5,0
+294,"APPLE iPhone 8 Plus (Gold, 256 GB)",Apple,4.5,0
+295,"APPLE iPhone 8 Plus (Gold, 64 GB)",Apple,4.6,0
+296,"APPLE iPhone 8 Plus (PRODUCT)RED (Red, 256 GB)",Apple,4.6,0
+297,"APPLE iPhone 8 Plus (PRODUCT)RED (Red, 64 GB)",Apple,4.6,0
+298,"APPLE iPhone 8 Plus (Silver, 256 GB)",Apple,4.6,0
+299,"APPLE iPhone 8 Plus (Silver, 64 GB)",Apple,4.6,0
+300,"APPLE iPhone 8 Plus (Space Grey, 256 GB)",Apple,4.6,0
+301,"APPLE iPhone 8 Plus (Space Grey, 64 GB)",Apple,4.6,0
+302,"APPLE iPhone SE (Black, 128 GB)",Apple,4.5,0
+303,"APPLE iPhone SE (Black, 256 GB)",Apple,4.4,0
+304,"APPLE iPhone SE (Black, 64 GB)",Apple,4.6,0
+305,"APPLE iPhone SE (Red, 128 GB)",Apple,4.5,0
+306,"APPLE iPhone SE (Red, 256 GB)",Apple,4.4,0
+307,"APPLE iPhone SE (Red, 64 GB)",Apple,4.6,0
+308,"APPLE iPhone SE (White, 128 GB)",Apple,4.7,0
+309,"APPLE iPhone SE (White, 256 GB)",Apple,4.6,0
+310,"APPLE iPhone SE (White, 64 GB)",Apple,4.6,0
+311,"APPLE iPhone SE 3rd Gen (Midnight, 256 GB)",Apple,4.4,0
+312,"APPLE iPhone SE 3rd Gen (Product (Red), 128 GB)",Apple,4.4,0
+313,"APPLE iPhone SE 3rd Gen (Product (Red), 256 GB)",Apple,4.7,0
+314,"APPLE iPhone SE 3rd Gen (Product (Red), 64 GB)",Apple,4.5,0
+315,"APPLE iPhone SE 3rd Gen (Starlight, 128 GB)",Apple,4.6,0
+316,"APPLE iPhone SE 3rd Gen (Starlight, 256 GB)",Apple,4.5,0
+317,"APPLE iPhone SE 3rd Gen (Starlight, 64 GB)",Apple,4.3,0
+318,"APPLE iPhone X (Space Gray, 256 GB)",Apple,4.6,0
+319,"APPLE iPhone X (Space Gray, 64 GB)",Apple,4.6,0
+320,"APPLE iPhone XR ((PRODUCT)RED, 128 GB)",Apple,4.5,0
+321,"APPLE iPhone XR ((PRODUCT)RED, 64 GB)",Apple,4.4,0
+322,"APPLE iPhone XR (Black, 128 GB)",Apple,4.6,0
+323,"APPLE iPhone XR (Black, 64 GB)",Apple,4.7,0
+324,"APPLE iPhone XR (Blue, 128 GB)",Apple,4.5,0
+325,"APPLE iPhone XR (Blue, 64 GB)",Apple,4.5,0
+326,"APPLE iPhone XR (Coral, 128 GB)",Apple,3.9,0
+327,"APPLE iPhone XR (Coral, 64 GB)",Apple,4.5,0
+328,"APPLE iPhone XR (White, 128 GB)",Apple,4.5,0
+329,"APPLE iPhone XR (White, 64 GB)",Apple,4.6,0
+330,"APPLE iPhone XR (Yellow, 128 GB)",Apple,4.6,0
+331,"APPLE iPhone XR (Yellow, 64 GB)",Apple,3.9,0
+332,"APPLE iPhone XS (Gold, 256 GB)",Apple,4.7,0
+333,"APPLE iPhone XS (Silver, 256 GB)",Apple,4.6,0
+334,"APPLE iPhone XS (Silver, 512 GB)",Apple,4.5,0
+335,"APPLE iPhone XS (Silver, 64 GB)",Apple,4.5,0
+336,"APPLE iPhone XS (Space Grey, 256 GB)",Apple,4.5,0
+337,"APPLE iPhone XS (Space Grey, 512 GB)",Apple,4.7,0
+338,"APPLE iPhone XS (Space Grey, 64 GB)",Apple,4.7,0
+339,"APPLE iPhone XS Max (Gold, 256 GB)",Apple,4.6,0
+340,"APPLE iPhone XS Max (Gold, 512 GB)",Apple,4.5,0
+341,"APPLE iPhone XS Max (Silver, 256 GB)",Apple,4.6,0
+342,"APPLE iPhone XS Max (Silver, 512 GB)",Apple,4.7,0
+343,"APPLE iPhone XS Max (Silver, 64 GB)",Apple,4.5,0
+344,"APPLE iPhone XS Max (Space Grey, 256 GB)",Apple,4.6,0
+345,"APPLE iPhone XS Max (Space Grey, 512 GB)",Apple,4.7,0
+349,"Apple MGLW2LL/A iPad Air 2 9.7-Inch Retina Display, 16GB, Wi-Fi (Silver) (Renewed)",Apple,4.2,124
+350,"Apple iPad 2 MC774LL/A Tablet (32GB, Wifi + AT&T 3G, Black) 2nd Generation (Renewed)",Apple,3.2,5
+351,"Apple iPad Air MF003LL/A (32GB, Wi-Fi + AT&T, Black with Space Gray) OLD VERSION (Renewed)",Apple,5,7
+352,"Apple iPad Air MF529LL/A (32GB, Wi-Fi + at&T, White with Silver) (Renewed)",Apple,2.7,6
+353,Apple iPad Pro 9.7in 256GB Gold WiFi + 4G Cellular ( )(Renewed),Apple,4.4,1
+354,"Apple iPad mini 4 (32GB, Wi-Fi + Cellular, Space Gray) (Renewed)",Apple,5,10
+355,"Apple iPhone 11 Black 6.1"" 128GB 4G Unlocked & SIM Free",Apple,,0
+356,"Apple iPhone 11 Pro, 64GB, Fully Unlocked - Space Gray (Renewed)",Apple,1,1
+357,"Apple iPhone 11 Slim Pack Black 6.1"" 64GB 4G Unlocked & SIM Free Smartphone",Apple,,8
+358,"Apple iPhone 11 White 6.1"" 128GB 4G Unlocked & SIM Free",Apple,,0
+359,"Apple iPhone 11, 64GB, Unlocked - Red (Renewed)",Apple,5,1
+360,"Apple iPhone 12 Black 6.1"" 128GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+361,"Apple iPhone 12 Black 6.1"" 256GB 5G Unlocked & SIM Free",Apple,,0
+362,"Apple iPhone 12 Black 6.1"" 64GB 5G Unlocked & SIM Free Smartphone",Apple,,8
+363,"Apple iPhone 12 Blue 6.1"" 128GB 5G Unlocked & SIM Free",Apple,,0
+364,"Apple iPhone 12 Blue 6.1"" 256GB 5G Unlocked & SIM Free",Apple,,0
+365,"Apple iPhone 12 Blue 6.1"" 64GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+366,"Apple iPhone 12 Purple 6.1"" 256GB 5G Unlocked & SIM Free",Apple,,0
+367,"Apple iPhone 12 White 6.1"" 64GB 5G Unlocked & SIM Free",Apple,,0
+368,"Apple iPhone 13 Midnight 6.1"" 128GB 5G Unlocked & SIM Free Smartphone",Apple,,6
+369,"Apple iPhone 13 Mini Midnight 5.4"" 128GB 5G Unlocked & SIM Free Smartphone",Apple,,1
+370,"Apple iPhone 13 Mini Midnight 5.4"" 256GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+371,"Apple iPhone 13 Mini Midnight 5.4"" 512GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+372,"Apple iPhone 13 Mini Starlight 5.4"" 128GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+373,"Apple iPhone 13 Mini Starlight 5.4"" 512GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+374,"Apple iPhone 13 Product Red 6.1"" 128GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+375,"Apple iPhone 13 Starlight 6.1"" 128GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+376,"Apple iPhone 14 Blue 6.1"" 256GB 5G Unlocked & SIM Free Smartphone ",Apple,,0
+377,"Apple iPhone 14 Blue 6.1"" 512GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+378,"Apple iPhone 14 Midnight 6.1"" 128GB 5G Unlocked & SIM Free Smartphone",Apple,,1
+379,"Apple iPhone 14 Midnight 6.1"" 512GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+380,"Apple iPhone 14 Plus Blue 6.7"" 256GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+381,"Apple iPhone 14 Plus Blue 6.7"" 512GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+382,"Apple iPhone 14 Plus Midnight 6.7"" 128GB 5G Unlocked & SIM Free Smartphone",Apple,,1
+383,"Apple iPhone 14 Plus Purple 6.7"" 256GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+384,"Apple iPhone 14 Plus Purple 6.7"" 512GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+385,"Apple iPhone 14 Plus Starlight 6.7"" 128GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+386,"Apple iPhone 14 Plus Starlight 6.7"" 512GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+387,"Apple iPhone 14 Pro Deep Purple  6.1"" 128GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+388,"Apple iPhone 14 Pro Deep Purple 6.1"" 1TB 5G Unlocked & SIM Free Smartphone",Apple,,0
+389,"Apple iPhone 14 Pro Deep Purple 6.1"" 256GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+390,"Apple iPhone 14 Pro Deep Purple 6.1"" 512GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+391,"Apple iPhone 14 Pro Gold 6.1"" 1TB 5G Unlocked & SIM Free Smartphone",Apple,,0
+392,"Apple iPhone 14 Pro Gold 6.1"" 256GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+393,"Apple iPhone 14 Pro Gold 6.1"" 512GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+394,"Apple iPhone 14 Pro Max Deep Purple 6.7"" 256GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+395,"Apple iPhone 14 Pro Max Deep Purple 6.7"" 512GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+396,"Apple iPhone 14 Pro Max Gold  6.7"" 1TB 5G Unlocked & SIM Free Smartphone",Apple,,0
+397,"Apple iPhone 14 Pro Max Gold 6.7"" 512GB 5G Unlocked & SIM Free Smartphone",Apple,,1
+398,"Apple iPhone 14 Pro Max Silver  6.7"" 1TB 5G Unlocked & SIM Free Smartphone",Apple,,0
+399,"Apple iPhone 14 Pro Max Silver 6.7"" 128GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+400,"Apple iPhone 14 Pro Max Space Black 6.7"" 128GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+401,"Apple iPhone 14 Pro Max Space Black 6.7"" 256GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+402,"Apple iPhone 14 Pro Max Space Black 6.7"" 512GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+403,"Apple iPhone 14 Pro Silver 6.1"" 1TB 5G Unlocked & SIM Free Smartphone",Apple,,0
+404,"Apple iPhone 14 Pro Silver 6.1"" 256GB 5G Unlocked & SIM Free Smartphone",Apple,,4
+405,"Apple iPhone 14 Pro Space Black 6.1"" 128GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+406,"Apple iPhone 14 Pro Space Black 6.1"" 1TB 5G Unlocked & SIM Free Smartphone",Apple,,0
+407,"Apple iPhone 14 Pro Space Black 6.1"" 512GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+408,"Apple iPhone 14 Product Red 6.1"" 128GB 5G Unlocked & SIM Free Smartphone",Apple,,1
+409,"Apple iPhone 14 Product Red 6.1"" 256GB 5G Unlocked & SIM Free Smartphone ",Apple,,0
+410,"Apple iPhone 14 Product Red 6.1"" 512GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+411,"Apple iPhone 14 Purple 6.1"" 128GB 5G Unlocked & SIM Free Smartphone",Apple,,4
+412,"Apple iPhone 14 Purple 6.1"" 512GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+413,"Apple iPhone 14 Starlight 6.1"" 256GB 5G Unlocked & SIM Free Smartphone ",Apple,,0
+414,"Apple iPhone 14 Starlight 6.1"" 512GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+415,"Apple iPhone 15 Black 6.1"" 128GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+416,"Apple iPhone 15 Black 6.1"" 256GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+417,"Apple iPhone 15 Blue 6.1"" 128GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+418,"Apple iPhone 15 Blue 6.1"" 256GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+419,"Apple iPhone 15 Pink 6.1"" 128GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+420,"Apple iPhone 15 Pink 6.1"" 256GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+421,"Apple iPhone 6S Plus, 128GB, Rose Gold - For AT&T / T-Mobile (Renewed)",Apple,2.5,7
+422,"Apple iPhone 6S Plus, 16GB, Silver - For AT&T / T-Mobile (Renewed)",Apple,4.1,195
+423,"Apple iPhone 6S Plus, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",Apple,3.8,56
+424,"Apple iPhone 6S Plus, 64GB, Silver - Fully Unlocked (Renewed)",Apple,3.8,12
+425,"Apple iPhone 6S, 128GB, Rose Gold - For AT&T / T-Mobile (Renewed)",Apple,4.6,3
+426,"Apple iPhone 6S, 16GB, Gold - For AT&T (Renewed)",Apple,3.7,46
+427,"Apple iPhone 6S, 16GB, Gold - For AT&T / T-Mobile (Renewed)",Apple,3.5,58
+428,"Apple iPhone 6S, 16GB, Rose Gold - For AT&T / T-Mobile (Renewed)",Apple,3.7,379
+429,"Apple iPhone 6S, 32GB, Gold - For AT&T / T-Mobile (Renewed)",Apple,3.8,48
+430,"Apple iPhone 6S, 32GB, Silver - For AT&T / T-Mobile (Renewed)",Apple,4.1,46
+431,"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",Apple,3.7,428
+432,"Apple iPhone 6S, 64GB, Space Gray - Fully Unlocked (Renewed)",Apple,3.5,394
+433,Apple iPhone 7 256GB Unlocked GSM 4G LTE Quad-Core Smartphone - Jet Black (Renewed),Apple,3.6,8
+434,Apple iPhone 7 256GB Unlocked GSM 4G LTE Quad-Core Smartphone - Rose Gold (Renewed),Apple,2.1,2
+435,"Apple iPhone 7 32GB, Rose Gold (Renewed)",Apple,3.8,452
+436,Apple iPhone 7 Plus 256GB Unlocked GSM 4G LTE Quad-Core Smartphone - Jet Black (Renewed),Apple,4,193
+437,Apple iPhone 7 Plus 256GB Unlocked GSM 4G LTE Quad-Core Smartphone - Silver (Renewed),Apple,3.6,17
+438,Apple iPhone 7 Plus 256GB Unlocked GSM Quad-Core Phone - Black (Renewed),Apple,4.1,153
+439,Apple iPhone 7 Plus 32GB Unlocked GSM 4G LTE Quad-Core Smartphone - Black (Renewed),Apple,3.8,101
+440,"Apple iPhone 7 Plus, 128GB, Gold - For Sprint (Renewed)",Apple,3.8,28
+441,"Apple iPhone 7 Plus, 128GB, Rose Gold - Fully Unlocked (Renewed)",Apple,3.9,2
+442,"Apple iPhone 7 Plus, 128GB, Silver - Fully Unlocked (Renewed)",Apple,3.9,2
+443,"Apple iPhone 7 Plus, AT&T Locked, 128GB - Jet Black (Renewed)",Apple,3.5,12
+444,"Apple iPhone 7 Plus, GSM Unlocked, 128GB - Rose Gold (Renewed)",Apple,3.5,83
+445,"Apple iPhone 7, 128GB, Gold - For AT&T / T-Mobile (Renewed)",Apple,3.5,227
+446,"Apple iPhone 7, 128GB, Red - For AT&T / T-Mobile (Renewed)",Apple,3.3,58
+447,"Apple iPhone 7, 128GB, Rose Gold - Fully Unlocked (Renewed)",Apple,3.6,4
+448,"Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",Apple,3.6,4
+449,"Apple iPhone 7, 32GB, Rose Gold - For AT&T / T-Mobile (Renewed)",Apple,3.9,243
+450,"Apple iPhone 7, 32GB, Silver - For AT&T / T-Mobile (Renewed)",Apple,3.9,30
+451,"Apple iPhone 8 64GB GSM Unlocked Smartphone, RED (Renewed)",Apple,4.1,26
+452,Apple iPhone 8 Plus 64GB Unlocked GSM Phone - Space Gray (Renewed),Apple,4,176
+453,"Apple iPhone 8 Plus, 64GB, Space Gray - For Verizon (Renewed)",Apple,4.2,1
+454,Apple iPhone 8 a1905 64GB LTE GSM Unlocked (Renewed),Apple,3.7,29
+455,"Apple iPhone 8, 64GB, Gold - Fully Unlocked (Renewed)",Apple,4,1
+456,"Apple iPhone 8, 64GB, Silver - Fully Unlocked (Renewed)",Apple,4,1
+457,"Apple iPhone 8, AT&T, 64GB - Red (Renewed)",Apple,4,16
+458,"Apple iPhone 8, GSM Unlocked, 256GB - Space Gray (Renewed)",Apple,4,96
+459,"Apple iPhone 8, GSM Unlocked, 64GB - Gold (Renewed)",Apple,4.2,72
+460,"Apple iPhone SE (Black, 128 GB) (Includes EarPods, Power Adapter)",Apple,4.6,0
+461,"Apple iPhone SE (Black, 256 GB) (Includes EarPods, Power Adapter)",Apple,4.5,0
+462,"Apple iPhone SE (Black, 64 GB) (Includes EarPods, Power Adapter)",Apple,4.7,0
+463,"Apple iPhone SE (Red, 128 GB) (Includes EarPods, Power Adapter)",Apple,4.5,0
+464,"Apple iPhone SE (Red, 256 GB) (Includes EarPods, Power Adapter)",Apple,4.6,0
+465,"Apple iPhone SE (Red, 64 GB) (Includes EarPods, Power Adapter)",Apple,4.5,0
+466,"Apple iPhone SE (White, 128 GB) (Includes EarPods, Power Adapter)",Apple,4.6,0
+467,"Apple iPhone SE (White, 256 GB) (Includes EarPods, Power Adapter)",Apple,4.5,0
+468,"Apple iPhone SE (White, 64 GB) (Includes EarPods, Power Adapter)",Apple,4.5,0
+469,"Apple iPhone SE 3rd Gen Midnight 4.7"" 128GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+470,"Apple iPhone SE 3rd Gen Midnight 4.7"" 64GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+471,"Apple iPhone SE 3rd Gen Product Red 4.7"" 64GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+472,"Apple iPhone SE, 16GB, Rose Gold - For AT&T / T-Mobile (Renewed)",Apple,3.8,2
+473,"Apple iPhone SE, 32GB, Gold - For AT&T / T-Mobile (Renewed)",Apple,3.8,61
+474,"Apple iPhone X, 256GB, Silver - For AT&T (Renewed)",Apple,3.9,436
+475,"Apple iPhone X, 256GB, Silver - For AT&T / T-Mobile (Renewed)",Apple,3.9,436
+476,"Apple iPhone X, 64GB, Gray - Fully Unlocked (Renewed)",Apple,5,1
+477,"Apple iPhone X, GSM Unlocked, 256GB - Silver (Renewed)",Apple,3.8,139
+478,"Apple iPhone X, Unlocked 5.8"", 64GB - Space Gray (Renewed)",Apple,3.9,442
+479,"Apple iPhone XR ((PRODUCT)RED, 256 GB) (Includes EarPods, Power Adapter)",Apple,4.7,0
+480,"Apple iPhone XR ((PRODUCT)RED, 64 GB) (Includes EarPods, Power Adapter)",Apple,4.5,0
+481,"Apple iPhone XR (Black, 128 GB) (Includes EarPods, Power Adapter)",Apple,4.5,0
+482,"Apple iPhone XR (Black, 256 GB) (Includes EarPods, Power Adapter)",Apple,4.6,0
+483,"Apple iPhone XR (Black, 64 GB) (Includes EarPods, Power Adapter)",Apple,4.5,0
+484,"Apple iPhone XR (Blue, 128 GB) (Includes EarPods, Power Adapter)",Apple,4.5,0
+485,"Apple iPhone XR (Blue, 256 GB) (Includes EarPods, Power Adapter)",Apple,4.5,0
+486,"Apple iPhone XR (Blue, 64 GB) (Includes EarPods, Power Adapter)",Apple,4.7,0
+487,"Apple iPhone XR (Coral, 128 GB) (Includes EarPods, Power Adapter)",Apple,4.5,0
+488,"Apple iPhone XR (Coral, 256 GB) (Includes EarPods, Power Adapter)",Apple,4.5,0
+489,"Apple iPhone XR (Coral, 64 GB) (Includes EarPods, Power Adapter)",Apple,4.6,0
+490,"Apple iPhone XR (White, 128 GB) (Includes EarPods, Power Adapter)",Apple,4.5,0
+491,"Apple iPhone XR (White, 256 GB) (Includes EarPods, Power Adapter)",Apple,4.6,0
+492,"Apple iPhone XR (White, 64 GB) (Includes EarPods, Power Adapter)",Apple,4.6,0
+493,"Apple iPhone XR (Yellow, 128 GB) (Includes EarPods, Power Adapter)",Apple,4.5,0
+494,"Apple iPhone XR (Yellow, 64 GB) (Includes EarPods, Power Adapter)",Apple,4.4,0
+495,"Apple iPhone XR, 64GB, Red - Fully Unlocked (Renewed)",Apple,4.4,1
+496,"Apple iPhone XS Max, 256GB, Gray - For AT&T (Renewed)",Apple,4.1,230
+497,"Apple iPhone XS, 256GB, Gold - Fully Unlocked (Renewed)",Apple,3.9,198
+498,"Apple iPhone XS, 256GB, Gray - For AT&T (Renewed)",Apple,3.9,198
+499,"Apple iPhone Xs Max, 256GB, Space Gray - Fully Unlocked (Renewed)",Apple,4.1,230
+500,"Apple iPhone Xs Max, AT&T, 64GB - Gray - (Renewed)",Apple,4.2,13
+501,Apple iPod Touch 16GB (5th Generation) - Space Gray (Renewed),Apple,2.8,60
+516,"GRADE A1 - Samsung Galaxy S22 Green 6.1"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+646,"Infinix Smart 7 HD (Green Apple, 64 GB)",Apple,4.3,0
+1431,"Refurbished Apple iPhone 12 Mini Purple 5.4"" 64GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+1432,"Refurbished Apple iPhone 12 Mini Red 5.4"" 64GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+1433,"Refurbished Apple iPhone 14 Pro Space Black 6.1"" 256GB 5G Unlocked & SIM Free Smartphone",Apple,,0
+1451,"Refurbished Samsung Galaxy Z Flip3 Phantom Black 6.7"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+1452,"Refurbished Samsung Galaxy Z Flip4 Bora Purple 6.7"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+1453,"Refurbished Samsung Galaxy Z Flip4 Graphite 6.7"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+1456,"SAMSUNG A04 e (Copper, 64 GB)",Samsung,4.1,0
+1457,"SAMSUNG A52s (Awesome Violet, 128 GB)",Samsung,4.4,0
+1458,"SAMSUNG A52s (Black, 128 GB)",Samsung,4.4,0
+1459,"SAMSUNG A52s 5G (Awesome Black, 128 GB)",Samsung,4,0
+1460,"SAMSUNG GALAXY M13 (Aqua Green, 64 GB)",Samsung,4.2,0
+1461,"SAMSUNG GALAXY M13 (Midnight Blue, 128 GB)",Samsung,4.2,0
+1462,"SAMSUNG GALAXY M13 (Midnight Blue, 64 GB)",Samsung,4.2,0
+1463,"SAMSUNG GALAXY M13 (Stardust Brown, 128 GB)",Samsung,4.2,0
+1464,"SAMSUNG GALAXY M13 (Stardust Brown, 64 GB)",Samsung,4.2,0
+1465,"SAMSUNG GALAXY M13 5G (?Stardust Brown, 128 GB)",Samsung,4.1,0
+1466,"SAMSUNG GALAXY M13 5G (Aqua Green, 128 GB)",Samsung,4.15,0
+1467,"SAMSUNG GALAXY M13 5G (Aqua Green, 64 GB)",Samsung,4.1,0
+1468,"SAMSUNG GALAXY M13 5G (Midnight Blue, 128 GB)",Samsung,4.1,0
+1469,"SAMSUNG GALAXY M13 5G (Stardust Brown, 64 GB)",Samsung,4.1,0
+1470,"SAMSUNG GALAXY M31S (Mirage Black, 128 GB)",Samsung,4.3,0
+1471,"SAMSUNG GALAXY M51 (Celestial Black, 128 GB)",Samsung,4.1,0
+1472,"SAMSUNG GALAXY M51 (ELECTRIC BLUE, 128 GB)",Samsung,4.2,0
+1473,"SAMSUNG GALAXY NOTE 3 , T-Mobile (locked) white",Samsung,3.4,85
+1474,SAMSUNG GT 1200 R/I/M,Samsung,4.35,0
+1475,SAMSUNG GT-E1215,Samsung,4.3,0
+1476,SAMSUNG GT-E1215ZDAINS,Samsung,4.2,0
+1477,SAMSUNG GT-E1215ZKAINS,Samsung,4.3,0
+1478,SAMSUNG GT-E1215ZWAINS,Samsung,4.2,0
+1479,"SAMSUNG Galaxy A03 (Black, 32 GB)",Samsung,4.1,0
+1480,"SAMSUNG Galaxy A03 (Blue, 32 GB)",Samsung,4,0
+1481,"SAMSUNG Galaxy A03 (Blue, 64 GB)",Samsung,4.1,0
+1482,"SAMSUNG Galaxy A03 (Red, 32 GB)",Samsung,3.9,0
+1483,"SAMSUNG Galaxy A03 Core (Black, 32 GB)",Samsung,4.1,0
+1484,"SAMSUNG Galaxy A03 Core (Blue, 32 GB)",Samsung,4.1,0
+1485,"SAMSUNG Galaxy A03 Core (Bronze, 32 GB)",Samsung,4.1,0
+1486,"SAMSUNG Galaxy A03 Core (Green, 32 GB)",Samsung,4.15,0
+1487,"SAMSUNG Galaxy A03 Core (Mint, 32 GB)",Samsung,4.1,0
+1488,"SAMSUNG Galaxy A03 Core (Onyx, 32 GB)",Samsung,4.1,0
+1489,"SAMSUNG Galaxy A03s (Black, 32 GB)",Samsung,4.4,0
+1490,"SAMSUNG Galaxy A03s (Black, 64 GB)",Samsung,4.3,0
+1491,"SAMSUNG Galaxy A03s (Blue, 32 GB)",Samsung,4.1,0
+1492,"SAMSUNG Galaxy A03s (White, 64 GB)",Samsung,4.2,0
+1493,"SAMSUNG Galaxy A04 (Black, 128 GB)",Samsung,4,0
+1494,"SAMSUNG Galaxy A04 (Copper, 128 GB)",Samsung,4,0
+1495,"SAMSUNG Galaxy A04 (Copper, 64 GB)",Samsung,4.4,0
+1496,"SAMSUNG Galaxy A04 (Green, 128 GB)",Samsung,4,0
+1497,"SAMSUNG Galaxy A04e (Copper, 128 GB)",Samsung,4.1,0
+1498,"SAMSUNG Galaxy A04e (Copper, 64 GB)",Samsung,4.2,0
+1499,"SAMSUNG Galaxy A04e (Light Blue, 128 GB)",Samsung,4.1,0
+1500,"SAMSUNG Galaxy A04e (Light Blue, 64 GB)",Samsung,4.2,0
+1501,"SAMSUNG Galaxy A04s (Black, 64 GB)",Samsung,4.1,0
+1502,"SAMSUNG Galaxy A04s (Copper, 128 GB)",Samsung,4,0
+1503,"SAMSUNG Galaxy A04s (Copper, 64 GB)",Samsung,4.1,0
+1504,"SAMSUNG Galaxy A04s (Green, 64 GB)",Samsung,4.1,0
+1505,"SAMSUNG Galaxy A10s (Black, 32 GB)",Samsung,4.3,0
+1506,"SAMSUNG Galaxy A10s (Blue, 32 GB)",Samsung,4.4,0
+1507,"SAMSUNG Galaxy A10s (Green, 32 GB)",Samsung,4.4,0
+1508,"SAMSUNG Galaxy A12 (Black, 128 GB)",Samsung,4.1,0
+1509,"SAMSUNG Galaxy A12 (Black, 64 GB)",Samsung,4.3,0
+1510,"SAMSUNG Galaxy A12 (Blue, 128 GB)",Samsung,4.4,0
+1511,"SAMSUNG Galaxy A12 (Blue, 64 GB)",Samsung,4.35,0
+1512,"SAMSUNG Galaxy A12 (White, 64 GB)",Samsung,4.3,0
+1513,"SAMSUNG Galaxy A13 (Black, 128 GB)",Samsung,4.1,0
+1514,"SAMSUNG Galaxy A13 (Black, 64 GB)",Samsung,4.1,0
+1515,"SAMSUNG Galaxy A13 (Blue, 128 GB)",Samsung,4.1,0
+1516,"SAMSUNG Galaxy A13 (Blue, 64 GB)",Samsung,4.1,0
+1517,"SAMSUNG Galaxy A13 (Green, 128 GB)",Samsung,4.25,0
+1518,"SAMSUNG Galaxy A13 (Green, 64 GB)",Samsung,4.1,0
+1519,"SAMSUNG Galaxy A13 (Peach, 128 GB)",Samsung,4.1,0
+1520,"SAMSUNG Galaxy A13 (White, 128 GB)",Samsung,4.2,0
+1521,"SAMSUNG Galaxy A13 (White, 64 GB)",Samsung,4.3,0
+1522,"SAMSUNG Galaxy A14 (Black, 128 GB)",Samsung,3.9,0
+1523,"SAMSUNG Galaxy A14 (Black, 64 GB)",Samsung,3.9,0
+1524,"SAMSUNG Galaxy A14 (Light Green, 128 GB)",Samsung,3.9,0
+1525,"SAMSUNG Galaxy A14 (Light Green, 64 GB)",Samsung,3.9,0
+1526,"SAMSUNG Galaxy A14 (Silver, 128 GB)",Samsung,4.2,0
+1527,"SAMSUNG Galaxy A14 (Silver, 64 GB)",Samsung,3.9,0
+1528,"SAMSUNG Galaxy A14 5G (Black, 128 GB)",Samsung,4.05,0
+1529,"SAMSUNG Galaxy A14 5G (Black, 64 GB)",Samsung,4.1,0
+1530,"SAMSUNG Galaxy A14 5G (Dark Red, 128 GB)",Samsung,4,0
+1531,"SAMSUNG Galaxy A14 5G (Dark Red, 64 GB)",Samsung,4.1,0
+1532,"SAMSUNG Galaxy A14 5G (Light Green, 128 GB)",Samsung,4.1,0
+1533,"SAMSUNG Galaxy A2 Core (Blue, 16 GB)",Samsung,4.2,0
+1534,"SAMSUNG Galaxy A20s (Black, 32 GB)",Samsung,4.3,0
+1535,"SAMSUNG Galaxy A20s (Blue, 32 GB)",Samsung,4.2,0
+1536,"SAMSUNG Galaxy A20s (Green, 32 GB)",Samsung,4.4,0
+1537,"SAMSUNG Galaxy A21s (Black, 128 GB)",Samsung,4,0
+1538,"SAMSUNG Galaxy A21s (Blue, 64 GB)",Samsung,4.2,0
+1539,"SAMSUNG Galaxy A21s (Silver, 128 GB)",Samsung,4.2,0
+1540,"SAMSUNG Galaxy A21s (White, 64 GB)",Samsung,4,0
+1541,"SAMSUNG Galaxy A22 (Black, 128 GB)",Samsung,4.1,0
+1542,"SAMSUNG Galaxy A22 (Mint, 128 GB)",Samsung,4.3,0
+1543,"SAMSUNG Galaxy A22 5G (Gray, 128 GB)",Samsung,4.2,0
+1544,"SAMSUNG Galaxy A22 5G (Mint, 128 GB)",Samsung,4.15,0
+1545,"SAMSUNG Galaxy A22 5G (Violet, 128 GB)",Samsung,4.1,0
+1546,"SAMSUNG Galaxy A23 (Black, 128 GB)",Samsung,4.25,0
+1547,"SAMSUNG Galaxy A23 (Blue, 128 GB)",Samsung,4.3,0
+1548,"SAMSUNG Galaxy A23 (Peach, 128 GB)",Samsung,4.166666667,0
+1549,"SAMSUNG Galaxy A23 5G (Light Blue, 128 GB)",Samsung,3.8,0
+1550,"SAMSUNG Galaxy A23 5G (Orange, 128 GB)",Samsung,3.8,0
+1551,"SAMSUNG Galaxy A23 5G (Silver, 128 GB)",Samsung,3.95,0
+1552,"SAMSUNG Galaxy A30s (Prism Crush Violet, 64 GB)",Samsung,4.3,0
+1553,"SAMSUNG Galaxy A30s (Prism Crush White, 64 GB)",Samsung,4.3,0
+1554,"SAMSUNG Galaxy A31 (Prism Crush Black, 128 GB)",Samsung,4.6,0
+1555,"SAMSUNG Galaxy A31 (Prism Crush Blue, 128 GB)",Samsung,4.4,0
+1556,"SAMSUNG Galaxy A32 (Awesome Black, 128 GB)",Samsung,4.5,0
+1557,"SAMSUNG Galaxy A32 (Awesome Blue, 128 GB)",Samsung,4.3,0
+1558,"SAMSUNG Galaxy A33 (Awesome Black, 128 GB)",Samsung,4.1,0
+1559,"SAMSUNG Galaxy A33 (Awesome Blue, 128 GB)",Samsung,4.2,0
+1560,"SAMSUNG Galaxy A33 (Awesome White, 128 GB)",Samsung,4.3,0
+1561,"SAMSUNG Galaxy A34 5G (Awesome Graphite, 128 GB)",Samsung,4.25,0
+1562,"SAMSUNG Galaxy A34 5G (Awesome Graphite, 256 GB)",Samsung,4.2,0
+1563,"SAMSUNG Galaxy A34 5G (Awesome Lime, 128 GB)",Samsung,4.25,0
+1564,"SAMSUNG Galaxy A34 5G (Awesome Lime, 256 GB)",Samsung,4.2,0
+1565,"SAMSUNG Galaxy A34 5G (Awesome Silver, 128 GB)",Samsung,4.25,0
+1566,"SAMSUNG Galaxy A34 5G (Awesome Silver, 256 GB)",Samsung,4.2,0
+1567,"SAMSUNG Galaxy A34 5G (Awesome Violet, 128 GB)",Samsung,4.25,0
+1568,"SAMSUNG Galaxy A34 5G (Awesome Violet, 256 GB)",Samsung,4.2,0
+1569,"SAMSUNG Galaxy A50 (Black, 64 GB)",Samsung,4.35,0
+1570,"SAMSUNG Galaxy A50 (Blue, 64 GB)",Samsung,3.533333333,0
+1571,"SAMSUNG Galaxy A50 (White, 64 GB)",Samsung,4.3,0
+1572,"SAMSUNG Galaxy A50s (Prism Crush Black, 128 GB)",Samsung,2.9,0
+1573,"SAMSUNG Galaxy A50s (Prism Crush Violet, 128 GB)",Samsung,4.3,0
+1574,"SAMSUNG Galaxy A50s (Prism Crush White, 128 GB)",Samsung,4.3,0
+1575,"SAMSUNG Galaxy A51 (Haze Crush Silver, 128 GB)",Samsung,4.25,0
+1576,"SAMSUNG Galaxy A51 (Prism Crush Black, 128 GB)",Samsung,4.3,0
+1577,"SAMSUNG Galaxy A51 (Prism Crush Blue, 128 GB)",Samsung,4.2,0
+1578,"SAMSUNG Galaxy A52 (Awesome Black, 128 GB)",Samsung,4.3,0
+1579,"SAMSUNG Galaxy A52 (Awesome Blue, 128 GB)",Samsung,4.3,0
+1580,"SAMSUNG Galaxy A52 (Awesome Violet, 128 GB)",Samsung,4.2,0
+1581,"SAMSUNG Galaxy A52 (Awesome White, 128 GB)",Samsung,4.4,0
+1582,"SAMSUNG Galaxy A52s 5G (Awesome Black, 128 GB)",Samsung,4.2,0
+1583,"SAMSUNG Galaxy A52s 5G (Awesome Violet, 128 GB)",Samsung,3.55,0
+1584,"SAMSUNG Galaxy A52s 5G (Awesome White, 128 GB)",Samsung,4.2,0
+1585,"SAMSUNG Galaxy A53 (Awesome Black, 128 GB)",Samsung,4.2,0
+1586,"SAMSUNG Galaxy A53 (Awesome Black, 256 GB)",Samsung,4.1,0
+1587,"SAMSUNG Galaxy A53 (Awesome Blue, 128 GB)",Samsung,4.1,0
+1588,"SAMSUNG Galaxy A53 (Awesome Blue, 256 GB)",Samsung,4.1,0
+1589,"SAMSUNG Galaxy A53 (Awesome Peach, 128 GB)",Samsung,4.15,0
+1590,"SAMSUNG Galaxy A53 (Awesome Peach, 256 GB)",Samsung,4.1,0
+1591,"SAMSUNG Galaxy A53 (Awesome White, 128 GB)",Samsung,4.1,0
+1592,"SAMSUNG Galaxy A54 5G (Awesome Graphite, 128 GB)",Samsung,4.3,0
+1593,"SAMSUNG Galaxy A54 5G (Awesome Graphite, 256 GB)",Samsung,4.3,0
+1594,"SAMSUNG Galaxy A54 5G (Awesome Lime, 256 GB)",Samsung,4.3,0
+1595,"SAMSUNG Galaxy A54 5G (Awesome Violet, 128 GB)",Samsung,4.3,0
+1596,"SAMSUNG Galaxy A54 5G (Awesome Violet, 256 GB)",Samsung,4.3,0
+1597,"SAMSUNG Galaxy A7 (Blue, 64 GB)",Samsung,4.4,0
+1598,"SAMSUNG Galaxy A7 (Gold, 64 GB)",Samsung,4.2,0
+1599,"SAMSUNG Galaxy A7-2017 (Gold Sand, 32 GB)",Samsung,4.3,0
+1600,"SAMSUNG Galaxy A70 (Black, 128 GB)",Samsung,4.2,0
+1601,"SAMSUNG Galaxy A70 (Blue, 128 GB)",Samsung,4.4,0
+1602,"SAMSUNG Galaxy A70s (Prism Crush Red, 128 GB)",Samsung,4.3,0
+1603,"SAMSUNG Galaxy A70s (Prism Crush White, 128 GB)",Samsung,4.25,0
+1604,"SAMSUNG Galaxy A71 (Haze Crush Silver, 128 GB)",Samsung,4.3,0
+1605,"SAMSUNG Galaxy A71 (Prism Crush Black, 128 GB)",Samsung,4.2,0
+1606,"SAMSUNG Galaxy A72 (Awesome Black, 128 GB)",Samsung,4.3,0
+1607,"SAMSUNG Galaxy A73 5G (Awesome Gray, 128 GB)",Samsung,4.2,0
+1608,"SAMSUNG Galaxy A73 5G (Awesome Gray, 256 GB)",Samsung,4.2,0
+1609,"SAMSUNG Galaxy A73 5G (Awesome Mint, 256 GB)",Samsung,4.2,0
+1610,"SAMSUNG Galaxy A73 5G (Awesome White, 128 GB)",Samsung,4.2,0
+1611,"SAMSUNG Galaxy A80 (Phantom Black, 128 GB)",Samsung,4.3,0
+1612,"SAMSUNG Galaxy F02s (Diamond Blue, 32 GB)",Samsung,4.2,0
+1613,"SAMSUNG Galaxy F02s (Diamond Blue, 64 GB)",Samsung,4.2,0
+1614,"SAMSUNG Galaxy F02s (Diamond White, 32 GB)",Samsung,4.2,0
+1615,"SAMSUNG Galaxy F04 (Jade Purple, 64 GB)",Samsung,4.2,0
+1616,"SAMSUNG Galaxy F04 (Opal Green, 64 GB)",Samsung,4.2,0
+1617,"SAMSUNG Galaxy F12 (Celestial Black, 128 GB)",Samsung,3.6,0
+1618,"SAMSUNG Galaxy F12 (Celestial Black, 64 GB)",Samsung,4.2,0
+1619,"SAMSUNG Galaxy F12 (Sea Green, 128 GB)",Samsung,4.3,0
+1620,"SAMSUNG Galaxy F12 (Sky Blue, 128 GB)",Samsung,4.3,0
+1621,"SAMSUNG Galaxy F13 (Nightsky Green, 128 GB)",Samsung,4.3,0
+1622,"SAMSUNG Galaxy F13 (Sunrise Copper, 64 GB)",Samsung,4.3,0
+1623,"SAMSUNG Galaxy F13 (Waterfall Blue, 128 GB)",Samsung,4.3,0
+1624,"SAMSUNG Galaxy F14 5G (B.A.E. Purple, 128 GB)",Samsung,4.2,0
+1625,"SAMSUNG Galaxy F14 5G (GOAT Green, 128 GB)",Samsung,4.2,0
+1626,"SAMSUNG Galaxy F14 5G (OMG Black, 128 GB)",Samsung,4.2,0
+1627,"SAMSUNG Galaxy F22 (Denim Black, 128 GB)",Samsung,3.9,0
+1628,"SAMSUNG Galaxy F22 (Denim Black, 64 GB)",Samsung,4.3,0
+1629,"SAMSUNG Galaxy F22 (Denim Blue, 128 GB)",Samsung,4.1,0
+1630,"SAMSUNG Galaxy F22 (Denim Blue, 64 GB)",Samsung,4.2,0
+1631,"SAMSUNG Galaxy F23 5G (Aqua Blue, 128 GB)",Samsung,4.3,0
+1632,"SAMSUNG Galaxy F23 5G (Copper Blush, 128 GB)",Samsung,4.25,0
+1633,"SAMSUNG Galaxy F23 5G (Forest Green, 128 GB)",Samsung,4.25,0
+1634,"SAMSUNG Galaxy F41 (Fusion Black, 128 GB)",Samsung,4.4,0
+1635,"SAMSUNG Galaxy F41 (Fusion Black, 64 GB)",Samsung,4,0
+1636,"SAMSUNG Galaxy F41 (Fusion Blue, 128 GB)",Samsung,4.4,0
+1637,"SAMSUNG Galaxy F41 (Fusion Blue, 64 GB)",Samsung,4.3,0
+1638,"SAMSUNG Galaxy F41 (Fusion Green, 64 GB)",Samsung,4.3,0
+1639,"SAMSUNG Galaxy F42 5G (Matte Aqua, 128 GB)",Samsung,4.2,0
+1640,"SAMSUNG Galaxy F42 5G (Matte Black, 128 GB)",Samsung,4.3,0
+1641,"SAMSUNG Galaxy F54 5G (Meteor Blue, 256 GB)",Samsung,4.1,0
+1642,"SAMSUNG Galaxy F62 (Laser Green, 128 GB)",Samsung,4.2,0
+1643,"SAMSUNG Galaxy F62 (Laser Grey, 128 GB)",Samsung,4.1,0
+1644,"SAMSUNG Galaxy Fold 2 (Mystic Black, 256 GB)",Samsung,3.3,0
+1645,"SAMSUNG Galaxy J2 2018 (Gold, 16 GB)",Samsung,4.5,0
+1646,"SAMSUNG Galaxy J2 Core (Black, 16 GB)",Samsung,4.4,0
+1647,"SAMSUNG Galaxy J3 Pro (Gold, 16 GB)",Samsung,4.2,0
+1648,"SAMSUNG Galaxy J4 Plus (Black, 32 GB)",Samsung,4.4,0
+1649,"SAMSUNG Galaxy J6 (Black, 32 GB)",Samsung,4.4,0
+1650,"SAMSUNG Galaxy J6 (Black, 64 GB)",Samsung,4.5,0
+1651,"SAMSUNG Galaxy J6 (Blue, 32 GB)",Samsung,4.3,0
+1652,"SAMSUNG Galaxy J6 (Blue, 64 GB)",Samsung,4.5,0
+1653,"SAMSUNG Galaxy J7 (Black, 16 GB)",Samsung,4.6,0
+1654,"SAMSUNG Galaxy J7 Prime (Gold, 32 GB)",Samsung,4.3,0
+1655,"SAMSUNG Galaxy J8 (Black, 64 GB)",Samsung,4.2,0
+1656,"SAMSUNG Galaxy J8 (Blue, 64 GB)",Samsung,4.4,0
+1657,"SAMSUNG Galaxy M01 (Red, 32 GB)",Samsung,4.25,0
+1658,"SAMSUNG Galaxy M02 (Black, 32 GB)",Samsung,4.2,0
+1659,"SAMSUNG Galaxy M02 (Blue, 32 GB)",Samsung,4.1,0
+1660,"SAMSUNG Galaxy M02 (Gray, 32 GB)",Samsung,4.1,0
+1661,"SAMSUNG Galaxy M04 (Dark Blue, 128 GB)",Samsung,4.1,0
+1662,"SAMSUNG Galaxy M04 (Light Green, 64 GB)",Samsung,4.1,0
+1663,"SAMSUNG Galaxy M11 (Black, 32 GB)",Samsung,4.3,0
+1664,"SAMSUNG Galaxy M11 (Metallic Blue, 32 GB)",Samsung,4.3,0
+1665,"SAMSUNG Galaxy M11 (Metallic Blue, 64 GB)",Samsung,4.2,0
+1666,"SAMSUNG Galaxy M11 (Violet, 64 GB)",Samsung,4.4,0
+1667,"SAMSUNG Galaxy M12 (Black, 128 GB)",Samsung,4,0
+1668,"SAMSUNG Galaxy M12 (Black, 64 GB)",Samsung,4.2,0
+1669,"SAMSUNG Galaxy M12 (Blue, 128 GB)",Samsung,4.25,0
+1670,"SAMSUNG Galaxy M12 (Blue, 64 GB)",Samsung,4.3,0
+1671,"SAMSUNG Galaxy M12 (White, 128 GB)",Samsung,4.1,0
+1672,"SAMSUNG Galaxy M12 (White, 64 GB)",Samsung,4.2,0
+1673,"SAMSUNG Galaxy M13 (Aqua Green, 128 GB)",Samsung,4.25,0
+1674,"SAMSUNG Galaxy M14 5G (Berry Blue, 128 GB)",Samsung,4.2,0
+1675,"SAMSUNG Galaxy M14 5G (ICY Silver, 128 GB)",Samsung,4.2,0
+1676,"SAMSUNG Galaxy M14 5G (Icy Silver, 128 GB)",Samsung,4.2,0
+1677,"SAMSUNG Galaxy M14 5G (Smoky Teal, 128 GB)",Samsung,4.2,0
+1678,"SAMSUNG Galaxy M21 (Iceberg Blue, 64 GB)",Samsung,4.2,0
+1679,"SAMSUNG Galaxy M21 (Midnight Blue, 128 GB)",Samsung,4.1,0
+1680,"SAMSUNG Galaxy M21 (Midnight Blue, 64 GB)",Samsung,4.15,0
+1681,"SAMSUNG Galaxy M21 (Raven Black, 128 GB)",Samsung,4.4,0
+1682,"SAMSUNG Galaxy M21 (Raven Black, 64 GB)",Samsung,4.2,0
+1683,"SAMSUNG Galaxy M21 2021 Edition (Arctic Blue, 64 GB)",Samsung,4.1,0
+1684,"SAMSUNG Galaxy M30s (Blue, 64 GB)",Samsung,4.1,0
+1685,"SAMSUNG Galaxy M30s (Quartz Green, 64 GB)",Samsung,4.2,0
+1686,"SAMSUNG Galaxy M31 (Ocean Blue, 64 GB)",Samsung,4.3,0
+1687,"SAMSUNG Galaxy M31 (Space Black, 128 GB)",Samsung,4.5,0
+1688,"SAMSUNG Galaxy M31s (Mirage Black, 128 GB)",Samsung,4.25,0
+1689,"SAMSUNG Galaxy M31s (Mirage Blue, 128 GB)",Samsung,4.1,0
+1690,"SAMSUNG Galaxy M32 (Black, 128 GB)",Samsung,4.25,0
+1691,"SAMSUNG Galaxy M32 (Black, 64 GB)",Samsung,4.2,0
+1692,"SAMSUNG Galaxy M32 (Light Blue, 128 GB)",Samsung,4,0
+1693,"SAMSUNG Galaxy M32 (Light Blue, 64 GB)",Samsung,4.2,0
+1694,"SAMSUNG Galaxy M32 5G (Sky Blue, 128 GB)",Samsung,4.2,0
+1695,"SAMSUNG Galaxy M32 5G (Slate Black, 128 GB)",Samsung,4.2,0
+1696,"SAMSUNG Galaxy M32 Prime Edition (Black, 128 GB)",Samsung,4.3,0
+1697,"SAMSUNG Galaxy M32 Prime Edition (Black, 64 GB)",Samsung,4.2,0
+1698,"SAMSUNG Galaxy M32 Prime Edition (Light Blue, 128 GB)",Samsung,4.1,0
+1699,"SAMSUNG Galaxy M32 Prime Edition (Light Blue, 64 GB)",Samsung,4.2,0
+1700,"SAMSUNG Galaxy M33 5G (Deep Ocean Blue, 128 GB)",Samsung,4.05,0
+1701,"SAMSUNG Galaxy M33 5G (Emerald Brown, 128 GB)",Samsung,4.2,0
+1702,"SAMSUNG Galaxy M33 5G (Mystique Green, 128 GB)",Samsung,4.2,0
+1703,"SAMSUNG Galaxy M34 5G without charger (Prism Silver, 128 GB)",Samsung,3.9,0
+1704,"SAMSUNG Galaxy M40 (Midnight Blue, 128 GB)",Samsung,4,0
+1705,"SAMSUNG Galaxy M40 (Seawater Blue, 128 GB)",Samsung,4.5,0
+1706,"SAMSUNG Galaxy M42 (Prism Dot Gray, 128 GB)",Samsung,4.2,0
+1707,"SAMSUNG Galaxy M42 5G (Prism Dot Black, 128 GB)",Samsung,4.3,0
+1708,"SAMSUNG Galaxy M42 5G (Prism Dot Gray, 128 GB)",Samsung,4.2,0
+1709,"SAMSUNG Galaxy M52 5G (Blazing Black, 128 GB)",Samsung,4.266666667,0
+1710,"SAMSUNG Galaxy M52 5G (Icy Blue, 128 GB)",Samsung,4.25,0
+1711,"SAMSUNG Galaxy M53 5G (Deep Ocean Blue, 128 GB)",Samsung,4,0
+1712,"SAMSUNG Galaxy M53 5G (Emerald Brown, 128 GB)",Samsung,4.1,0
+1713,"SAMSUNG Galaxy M53 5G (Mystique Green, 128 GB)",Samsung,4.2,0
+1714,"SAMSUNG Galaxy Note 20 (Mystic Blue, 256 GB)",Samsung,4.2,0
+1715,"SAMSUNG Galaxy Note 20 (Mystic Green, 256 GB)",Samsung,3.9,0
+1716,"SAMSUNG Galaxy Note 20 Ultra 5G (Mystic Black, 256 GB)",Samsung,4.1,0
+1717,"SAMSUNG Galaxy Note 20 Ultra 5G (Mystic Bronze, 256 GB)",Samsung,4.3,0
+1718,"SAMSUNG Galaxy Note 3 (Classic White, 32 GB)",Samsung,4.3,0
+1719,"SAMSUNG Galaxy Note 8 (Midnight Black, 64 GB)",Samsung,4.1,0
+1720,"SAMSUNG Galaxy Note 8 (Orchid Grey, 64 GB)",Samsung,4.2,0
+1721,"SAMSUNG Galaxy On Max (Black, 32 GB)",Samsung,4.1,0
+1722,"SAMSUNG Galaxy On Max (Gold, 32 GB)",Samsung,4.3,0
+1723,"SAMSUNG Galaxy On Nxt (Black, 16 GB)",Samsung,4.1,0
+1724,"SAMSUNG Galaxy On Nxt (Gold, 16 GB)",Samsung,4.3,0
+1725,"SAMSUNG Galaxy On Nxt (Gold, 64 GB)",Samsung,4.3,0
+1726,"SAMSUNG Galaxy On6 (Black, 64 GB)",Samsung,4.4,0
+1727,"SAMSUNG Galaxy On6 (Blue, 64 GB)",Samsung,4.3,0
+1728,"SAMSUNG Galaxy On7 (Gold, 8 GB)",Samsung,4.2,0
+1729,"SAMSUNG Galaxy S10 (Prism Blue, 128 GB)",Samsung,4.2,0
+1730,"SAMSUNG Galaxy S20 FE (Cloud Lavender, 128 GB)",Samsung,4,0
+1731,"SAMSUNG Galaxy S20 FE (Cloud Navy, 128 GB)",Samsung,4,0
+1732,"SAMSUNG Galaxy S20 FE (Cloud Red, 128 GB)",Samsung,4.3,0
+1733,"SAMSUNG Galaxy S20 FE (Cloud White, 128 GB)",Samsung,4.5,0
+1734,"SAMSUNG Galaxy S20 FE 5G (Cloud Lavender, 128 GB)",Samsung,4.2,0
+1735,"SAMSUNG Galaxy S20 FE 5G (Cloud Mint, 128 GB)",Samsung,4.2,0
+1736,"SAMSUNG Galaxy S20 FE 5G (Cloud Navy, 128 GB)",Samsung,4.2,0
+1737,"SAMSUNG Galaxy S20+ (Cosmic Black, 128 GB)",Samsung,4.4,0
+1738,"SAMSUNG Galaxy S21 FE 5G (Graphite, 128 GB)",Samsung,4.3,0
+1739,"SAMSUNG Galaxy S21 FE 5G (Lavender, 128 GB)",Samsung,4.3,0
+1740,"SAMSUNG Galaxy S21 FE 5G (White, 256 GB)",Samsung,4.3,0
+1741,"SAMSUNG Galaxy S21 Plus (Phantom Silver, 128 GB)",Samsung,4.2,0
+1742,"SAMSUNG Galaxy S22 5G (Bora Purple, 128 GB)",Samsung,4.3,0
+1743,"SAMSUNG Galaxy S22 5G (Green, 128 GB)",Samsung,4.4,0
+1744,"SAMSUNG Galaxy S22 5G (Green, 256 GB)",Samsung,4.25,0
+1745,"SAMSUNG Galaxy S22 5G (Phantom Black, 128 GB)",Samsung,4.2,0
+1746,"SAMSUNG Galaxy S22 5G (Phantom Black, 256 GB)",Samsung,4.2,0
+1747,"SAMSUNG Galaxy S22 5G (Phantom White, 128 GB)",Samsung,4.25,0
+1748,"SAMSUNG Galaxy S22 5G (Phantom White, 256 GB)",Samsung,4.25,0
+1749,"SAMSUNG Galaxy S22 5G (White, 128 GB)",Samsung,4.3,0
+1750,"SAMSUNG Galaxy S22 Plus 5G (Green, 256 GB)",Samsung,4.3,0
+1751,"SAMSUNG Galaxy S22 Plus 5G (Phantom Black, 128 GB)",Samsung,4.5,0
+1752,"SAMSUNG Galaxy S22 Ultra 5G (Green, 256 GB)",Samsung,4.3,0
+1753,"SAMSUNG Galaxy S22 Ultra 5G (Phantom Black, 256 GB)",Samsung,4.3,0
+1754,"SAMSUNG Galaxy S22 Ultra 5G (Phantom Black, 512 GB)",Samsung,4.2,0
+1755,"SAMSUNG Galaxy S22 Ultra 5G (Phantom White, 256 GB)",Samsung,4.2,0
+1756,"SAMSUNG Galaxy S22 ultra 5G (Burgundy, 256 GB)",Samsung,4.4,0
+1757,"SAMSUNG Galaxy S23 5G (Cream, 128 GB)",Samsung,4.5,0
+1758,"SAMSUNG Galaxy S23 5G (Cream, 256 GB)",Samsung,4.5,0
+1759,"SAMSUNG Galaxy S23 5G (Green, 128 GB)",Samsung,4.5,0
+1760,"SAMSUNG Galaxy S23 5G (Lavender, 128 GB)",Samsung,4.5,0
+1761,"SAMSUNG Galaxy S23 5G (Lavender, 256 GB)",Samsung,4.5,0
+1762,"SAMSUNG Galaxy S23 5G (Phantom Black, 128 GB)",Samsung,4.5,0
+1763,"SAMSUNG Galaxy S23 5G (Phantom Black, 256 GB)",Samsung,4.5,0
+1764,"SAMSUNG Galaxy S23 Plus 5G (Cream, 256 GB)",Samsung,4.5,0
+1765,"SAMSUNG Galaxy S23 Plus 5G (Cream, 512 GB)",Samsung,4.5,0
+1766,"SAMSUNG Galaxy S23 Plus 5G (Phantom Black, 256 GB)",Samsung,4.3,0
+1767,"SAMSUNG Galaxy S23 Plus 5G (Phantom Black, 512 GB)",Samsung,4.5,0
+1768,"SAMSUNG Galaxy S23 Ultra 5G (Cream, 256 GB)",Samsung,4.4,0
+1769,"SAMSUNG Galaxy S23 Ultra 5G (Cream, 512 GB)",Samsung,4.2,0
+1770,"SAMSUNG Galaxy S23 Ultra 5G (Green, 1 TB)",Samsung,4.15,0
+1771,"SAMSUNG Galaxy S23 Ultra 5G (Green, 256 GB)",Samsung,4,0
+1772,"SAMSUNG Galaxy S23 Ultra 5G (Green, 512 GB)",Samsung,4.3,0
+1773,"SAMSUNG Galaxy S23 Ultra 5G (Phantom Black, 1 TB)",Samsung,4.1,0
+1774,"SAMSUNG Galaxy S23 Ultra 5G (Phantom Black, 256 GB)",Samsung,4.4,0
+1775,"SAMSUNG Galaxy S23 Ultra 5G Smarphone (Green, 256 GB)",Samsung,3.7,0
+1776,"SAMSUNG Galaxy S8 (Burgundy Red, 64 GB)",Samsung,4.3,0
+1777,"SAMSUNG Galaxy S8 (Midnight Black, 64 GB)",Samsung,4.3,0
+1778,"SAMSUNG Galaxy S9 (Coral Blue, 64 GB)",Samsung,4.4,0
+1779,"SAMSUNG Galaxy Z Flip3 5G (Cream, 128 GB)",Samsung,4.3,0
+1780,"SAMSUNG Galaxy Z Flip3 5G (Phantom Black, 128 GB)",Samsung,4.3,0
+1781,"SAMSUNG Galaxy Z Flip3 5G (Phantom Black, 256 GB)",Samsung,4.3,0
+1782,"SAMSUNG Galaxy Z Flip4 5G (Bora Purple, 128 GB)",Samsung,3.7,0
+1783,"SAMSUNG Galaxy Z Flip4 5G (Bora Purple, 256 GB)",Samsung,4.3,0
+1784,"SAMSUNG Galaxy Z Flip4 5G (Graphite, 128 GB)",Samsung,3.7,0
+1785,"SAMSUNG Galaxy Z Flip4 5G (Graphite, 256 GB)",Samsung,3.7,0
+1786,"SAMSUNG Galaxy Z Flip4 5G (Pink Gold, 128 GB)",Samsung,4.2,0
+1787,"SAMSUNG Galaxy Z Flip4 5G (Pink Gold, 256 GB)",Samsung,3.7,0
+1788,"SAMSUNG Galaxy Z Fold3 5G (Phantom Black, 256 GB)",Samsung,4.1,0
+1789,"SAMSUNG Galaxy Z Fold3 5G (Phantom Green, 256 GB)",Samsung,4.3,0
+1790,"SAMSUNG Galaxy Z Fold3 5G (Phantom Silver, 256 GB)",Samsung,4.3,0
+1791,"SAMSUNG Galaxy Z Fold4 5G (Graygreen, 256 GB)",Samsung,4.2,0
+1792,"SAMSUNG Galaxy Z Fold4 5G (Graygreen, 512 GB)",Samsung,2.9,0
+1793,"SAMSUNG Galaxy Z Fold4 5G (Phantom Black, 256 GB)",Samsung,3.9,0
+1794,"SAMSUNG Galaxy Z Fold4 5G (Phantom Black, 512 GB)",Samsung,2.9,0
+1795,"SAMSUNG Galaxy core prime (Milky White, 8 GB)",Samsung,4.1,0
+1796,SAMSUNG Guru FM Plus,Samsung,4.2,0
+1797,SAMSUNG Guru FM Plus SM-B110E/D,Samsung,4.15,0
+1798,SAMSUNG Guru GT,Samsung,4.2,0
+1799,SAMSUNG Guru Music 2,Samsung,4.3,0
+1800,"SAMSUNG M01 core (Blue, 16 GB)",Samsung,4.2,0
+1801,"SAMSUNG M01 core (Blue, 32 GB)",Samsung,4.2,0
+1802,"SAMSUNG M02s (Black, 32 GB)",Samsung,4.3,0
+1803,"SAMSUNG M02s (Black, 64 GB)",Samsung,4.2,0
+1804,"SAMSUNG M02s (Blue, 32 GB)",Samsung,4,0
+1805,"SAMSUNG M21 2021 Edition (Charcoal Black, 128 GB)",Samsung,4.3,0
+1806,"SAMSUNG M21 2021 Edition (Charcoal Black, 64 GB)",Samsung,4.2,0
+1807,"SAMSUNG M32 5G (Sky blue, 128 GB)",Samsung,4.2,0
+1808,"SAMSUNG M32 5G (Slate Black, 128 GB)",Samsung,4.1,0
+1809,"SAMSUNG M53 5G (Mystique Green, 128 GB)",Samsung,4.1,0
+1810,SAMSUNG Metro 313,Samsung,4.242857143,0
+1811,SAMSUNG Metro 313 Dual Sim,Samsung,4,0
+1812,"SAMSUNG On5 (Black, 8 GB)",Samsung,4.3,0
+1813,"SAMSUNG S22 Ultra 5G (Burgundy, 256 GB)",Samsung,4.3,0
+1814,SAMSUNG SM-B310EZDDINS,Samsung,4.2,0
+1815,"SAMSUNG Z2 (Gold, 8 GB)",Samsung,4.2,0
+1816,Samsung - Galaxy Note 9 (AT&T) - (Factory Unlocked) Ocean Blue - 128 GB,Samsung,3.8,10
+1817,"Samsung A157 Unlocked GSM Cell Phone with Internet Browser, 3G Capabilities, SMS & MMS and Speakerphone - Black",Samsung,2.4,49
+1818,"Samsung A2 Core (SM-A260G/DS) Dual Sim 16GB Factory Unlocked International Version, No Warranty - Blue",Samsung,3.6,6
+1819,"Samsung ATIV S Neo I187 (16GB, 1GB RAM) 4.77"" Display | Dual Camera | 2,000 mAh Battery | Windows 8.1 SmartPhone | 4G LTE | GSM Unlocked | Royal Blue",Samsung,4,10
+1820,"Samsung ATIV SE, Silver 16GB (Verizon Wireless)",Samsung,3.8,22
+1821,"Samsung Alias2 U750 Phone, Black (Verizon Wireless)",Samsung,3,29
+1822,Samsung B690 convoy 4-verizon wireless (Renewed),Samsung,2.7,13
+1823,Samsung Convoy 3 SCH-U680 Rugged 3G Cell Phone Verizon Wireless,Samsung,3.7,264
+1824,"Samsung Convoy 3, Gray (Verizon Wireless)",Samsung,3.4,340
+1825,Samsung Convoy 4 B690 Rugged Water-Resistant Verizon Flip Phone w/ 5MP Camera - Blue,Samsung,3.3,115
+1826,Samsung Convoy 4 B690 Rugged Water-Resistant Verizon Flip Phone w/ 5MP Camera - Blue (Renewed),Samsung,2.5,6
+1827,Samsung Convoy SCH-U640 Cell Phone Ruggedized PTT 2+ megapixel Camera for Verizon,Samsung,3.2,107
+1828,Samsung DeX Wireless Qi Desktop Charging Dock Station EE-MG950 Galaxy S8 + Note8 (Renewed),Samsung,4.2,63
+1829,"Samsung Electronics 32GB A6 Factory Unlocked Phone - 5.6"" - Black (U.S. Warranty)",Samsung,4.3,21
+1830,"Samsung Focus Flash I677 8GB Unlocked GSM Phone with Windows 7.5 OS, 5MP Camera, GPS, Wi-Fi, Bluetooth and FM Radio - Black",Samsung,3.1,123
+1831,"Samsung Focus I917 Unlocked Phone with Windows 7 OS, 5 MP Camera, and Wi-Fi--No Warranty (Black)",Samsung,3.4,349
+1832,Samsung Freeform III Prepaid Phone (MetroPCS),Samsung,3.1,32
+1833,Samsung G550T GSM 4G LTE Unlocked Galaxy ON5 Smartphone,Samsung,3.5,58
+1834,Samsung GALAXY S6 G920 32GB Unlocked GSM 4G LTE Octa-Core Smartphone - Black Sapphire,Samsung,3.1,243
+1835,"Samsung GS6 5.1"" Certified Pre-Owned Carrier Locked Phone - 32GB - White (Verizon)",Samsung,2.9,2
+1836,"Samsung Galaxy A03 Black 6.5"" 64GB 4G Unlocked & SIM Free Smartphone",Samsung,,1
+1837,"Samsung Galaxy A04s 4G Awesome White 6.5"" 32GB 4G Unlocked & SIM Free Smartphone",Samsung,,0
+1838,"Samsung Galaxy A04s 4G Black Beauty 6.5"" 32GB 4G Unlocked & SIM Free Smartphone",Samsung,,0
+1839,"Samsung Galaxy A04s 4G Green 6.5"" 32GB 4G Unlocked & SIM Free Smartphone",Samsung,,0
+1840,"Samsung Galaxy A10 (32GB, 2GB RAM) 6.2"" HD+ Infinity-V Display, Android Pie, Samsung One UI, US + Global 4G LTE Dual SIM GSM Factory Unlocked A105M/DS - International Model (Black, 32GB)",Samsung,4.2,15
+1841,"Samsung Galaxy A10 (32GB, 2GB RAM) 6.2"" Infinity-V Display, Android 9.0 Pie, US + Global 4G LTE Dual SIM Factory Unlocked A105M/DS - GSM International Model (Red, 32GB + 64GB SD Bundle)",Samsung,4.3,7
+1842,"Samsung Galaxy A10 32GB (A105M) 6.2"" HD+ Infinity-V 4G LTE Factory Unlocked GSM Smartphone - Black",Samsung,4.1,874
+1843,"Samsung Galaxy A10 32GB A105G/DS LTE Unlocked GSM 6.2"" HD+ Smartphone - International Version, No Warranty (Blue)",Samsung,4.2,100
+1844,Samsung Galaxy A10 A105M 32GB Duos GSM Unlocked Phone w/ 13MP Camera - Blue,Samsung,4.2,411
+1845,"Samsung Galaxy A10 SM-A105FDS 32GB, Dual Sim, 6.2"" HD + Infinity-V Display, 2GB RAM, GSM Unlocked International Model, No Warranty (Black)",Samsung,4,65
+1846,"Samsung Galaxy A10s (32GB, 2GB RAM) 6.2"" HD+ Infinity-V Display, 13MP+2MP Dual Rear Camera+8MP Front Facing Camera- 4G LTE Dual SIM GSM Factory Unlocked A107M/DS (Latin Specs M (Black, Dual SIM)",Samsung,4.2,98
+1847,"Samsung Galaxy A13 5G Awesome Black 6.5"" 64GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+1848,"Samsung Galaxy A13 5G White 6.5"" 64GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+1849,"Samsung Galaxy A13 V2 Black 6.6"" 64GB 4G Unlocked & SIM Free Smartphone",Samsung,,24
+1850,"Samsung Galaxy A14 4G Awesome Lime  6.6"" 64GB 4G Unlocked & SIM Free Smartphone",Samsung,,1
+1851,"Samsung Galaxy A14 4G Awesome Silver  6.6"" 64GB 4G Unlocked & SIM Free Smartphone",Samsung,,1
+1852,"Samsung Galaxy A14 4G Black 6.6"" 64GB 4G Unlocked & SIM Free Smartphone",Samsung,,0
+1853,"Samsung Galaxy A14 5G Awesome Black  6.6"" 64GB 5G Unlocked & SIM Free Smartphone",Samsung,,2
+1854,"Samsung Galaxy A14 5G Awesome Lime 6.6"" 64GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+1855,"Samsung Galaxy A14 5G Awesome Silver  6.6"" 64GB 5G Unlocked & SIM Free Smartphone",Samsung,,1
+1856,"Samsung Galaxy A20 (32GB, 3GB RAM) 6.4"" Super AMOLED, Fast Charge 4000mAh Battery, US & Global 4G LTE GSM Factory Unlocked A205G - International Model (Black, 32GB + 32GB SD Bundle (Single SIM))",Samsung,3.9,17
+1857,"Samsung Galaxy A20 (32GB, 3GB RAM) 6.4"" Super AMOLED, Infinity-V Display, Fast Charge 4000mAh Battery, US & Global 4G LTE Dual SIM GSM Factory Unlocked A205G/DS - International Model (Black, 32GB)",Samsung,4,55
+1858,"Samsung Galaxy A20 SM-A205GDS 32GB, Dual Sim, 6.4"" Infinity-V Display, Dual Rear Camera, 3GB RAM, GSM Unlocked International Model, No Warranty (Red)",Samsung,4.1,89
+1859,"Samsung Galaxy A20 US Version Factory Unlocked Cell Phone with 32GB Memory, 6.4"" Screen, [SM-A205UZKAXAA], 12 Month Samsung US Warranty, GSM & CDMA Compatible, Black",Samsung,4.4,915
+1860,"Samsung Galaxy A20s A207/DS, 32GB/3GB RAM Dual SIM 6.5''HD+ Snapdragon 450, Factory Unlocked (International Version) - (Black)",Samsung,4.4,52
+1861,"Samsung Galaxy A23 5G Awesome Black 6.6"" 64GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+1862,"Samsung Galaxy A23 5G Awesome Blue 6.6"" 64GB 5G Unlocked & SIM Free Smartphone",Samsung,,5
+1863,"Samsung Galaxy A23 5G Awesome White 6.6"" 64GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+1864,Samsung Galaxy A30 Dual SIM 32GB (SM-A305G/DS) Unlocked Phone GSM International Version - Blue,Samsung,4.2,352
+1865,Samsung Galaxy A30 Single SIM 32GB (SM-A305G) Unlocked Phone GSM International Version - Blue,Samsung,5,1
+1866,"Samsung Galaxy A30S w/On-Screen Fingerprint (64GB, 4GB) 6.4"", Triple Camera, Dual SIM GSM Unlocked A307G/DS - US + Global 4G LTE International Model (64GB + 64GB SD + Case Bundle) (Black)",Samsung,4.5,26
+1867,"Samsung Galaxy A33 5G Awesome Black 6.4"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+1868,"Samsung Galaxy A33 5G Awesome Blue 6.4"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+1869,"Samsung Galaxy A34 Awesome Black 6.6"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+1870,"Samsung Galaxy A34 Awesome Black 6.6"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+1871,"Samsung Galaxy A34 Awesome Lime 6.6"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,2
+1872,"Samsung Galaxy A34 Awesome Lime 6.6"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+1873,"Samsung Galaxy A34 Awesome Silver 6.6"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,2
+1874,"Samsung Galaxy A34 Awesome Silver 6.6"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+1875,"Samsung Galaxy A34 Awesome Violet 6.6"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+1876,"Samsung Galaxy A40 SM-A405F/DS Dual-SIM (64GB ROM, 4GB RAM, 5.9-Inch, GSM Only, No CDMA) Factory Unlocked 4G/LTE Smartphone - International Version (Black)",Samsung,4.2,4
+1877,"Samsung Galaxy A50 (64GB, 4GB RAM) 6.4"" Display, 25MP, Triple Camera, Global 4G LTE GSM Factory Unlocked A505G (International Model w/ 64GB MicroSD Bundle) (White)",Samsung,4.1,21
+1878,"Samsung Galaxy A50 (A505) 128GB, Dual-SIM, 6.4"" Infinity-U Display, Triple Camera, GSM Unlocked Smartphone - International Model (White)",Samsung,3.5,42
+1879,"Samsung Galaxy A50 128GB, 4GB RAM 6.4"" Display, 25MP, Triple Camera, Global 4G LTE Dual SIM GSM Factory Unlocked A505G/DS - International Model (Black, 128GB + 128GB SD + Case Bundle)",Samsung,4.1,23
+1880,"Samsung Galaxy A50 128GB, 4GB RAM 6.4"" Display, 25MP, Triple Camera, Global 4G LTE Dual SIM GSM Factory Unlocked A505G/DS - International Model (Blue, 128 GB)",Samsung,4.7,4
+1881,Samsung Galaxy A50 A505F 128GB Dual SIM Unlocked GSM Phone w/ Triple (25MP+8MP+5MP) Camera - Black,Samsung,3.7,28
+1882,"Samsung Galaxy A50 A505G 64GB Duos GSM Unlocked Phone w/Triple 25MP Camera - (International Version, no Warranty) - White",Samsung,4.1,125
+1883,Samsung Galaxy A50 A505G 64GB Duos GSM Unlocked Phone w/Triple 25MP Camera - Blue,Samsung,4.2,706
+1884,"Samsung Galaxy A50 SM-A505G 128GB, Dual Sim, 6.4"" Infinity-U Display, Triple Camera, 4GB RAM, GSM Unlocked International Model, No Warranty (White)",Samsung,3.3,7
+1885,"Samsung Galaxy A50 SM-A505G 64GB 4GB RAM 25 MP 6.4"" Factory Unlocked- Black (Renewed)",Samsung,3.8,18
+1886,"Samsung Galaxy A50 US Version Factory Unlocked Cell Phone with 64GB Memory, 6.4"" Screen, Black, [SM-A505UZKNXAA]",Samsung,4,288
+1887,"Samsung Galaxy A52s 5G Awesome Black 6.5"" 128GB 5G Dual SIM Unlocked & SIM Free Smartphone",Samsung,,0
+1888,"Samsung Galaxy A52s 5G Awesome Mint 6.5"" 128GB 5G Dual SIM Unlocked & SIM Free Smartphone",Samsung,,0
+1889,"Samsung Galaxy A53 5G Awesome Black 6.5"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+1890,"Samsung Galaxy A53 5G Awesome Blue 6.5"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+1891,"Samsung Galaxy A53 5G Awesome Peach 6.5"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+1892,"Samsung Galaxy A54 Awesome Black 6.4"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+1893,"Samsung Galaxy A54 Awesome Black 6.4"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+1894,"Samsung Galaxy A54 Awesome Lime 6.4"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+1895,"Samsung Galaxy A54 Awesome Lime 6.4"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+1896,"Samsung Galaxy A54 Awesome Violet 6.4"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,1
+1897,"Samsung Galaxy A54 Awesome Violet 6.4"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,1
+1898,"Samsung Galaxy A54 Awesome White 6.4"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,1
+1899,"Samsung Galaxy A54 Awesome White 6.4"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+1900,Samsung Galaxy A6 SM-A600P 32GB Black (Boost Mobile)(Renewed),Samsung,3.3,4
+1901,"Samsung Galaxy A70 (128GB, 6GB RAM) 6.7"" in-Screen Fingerprint, 25W Super-Fast Charger, US + Global 4G LTE GSM Unlocked International Model A705MN/DS (Black, 128GB + 128GB SD + Case Bundle)",Samsung,4.5,78
+1902,Samsung Galaxy A70 (SM-A7050) 6GB / 128GB 6.7-inches Dual SIM Factory Unlocked - No Warranty (Blue),Samsung,5,1
+1903,"Samsung Galaxy A70 128GB/6GB SM-A705M/DS 6.7"" HD+ Infinity-U 4G/LTE Factory Unlocked Smartphone (International Version , No Warranty) (Blue)",Samsung,4.4,586
+1904,"Samsung Galaxy A70 128GB/6GB SM-A705MN/DS 6.7"" HD+ Infinity-U 4G/LTE Factory Unlocked Smartphone (International Version, No Warranty) (Black) (Renewed)",Samsung,1,2
+1905,"Samsung Galaxy A70 SM-A705F/DS Dual-SIM (128GB ROM, 6GB RAM, 6.7-Inch, GSM Only, No CDMA) Factory Unlocked 4G/LTE Smartphone - International Version (Black)",Samsung,3.7,39
+1906,"Samsung Galaxy A80 SM-A805F/DS 128GB Dual-SIM (GSM Only, No CDMA) Factory Unlocked 4G/LTE Smartphone - International Version (Phantom Black)",Samsung,4.5,23
+1907,"Samsung Galaxy A80 SM-A805F/DS Dual Sim (Factory Unlocked) 6.7"" 128GB 8GB RAM (Ghost White)",Samsung,4.7,17
+1908,"Samsung Galaxy Alpha, Frosted Gold 32GB (AT&T)",Samsung,3.1,113
+1909,Samsung Galaxy Amp 2 - Cricket,Samsung,3.9,11
+1910,"Samsung Galaxy Cellphone - S10 AT&T Factory Unlock (Black, 128GB)",Samsung,3.9,10
+1911,"Samsung Galaxy Cellphone - S10+ Plus AT&T Factory Unlock (White, 128GB)",Samsung,4.5,12
+1912,"Samsung Galaxy Cellphone S10+ Plus AT&T T-Mobile GSM Unlock (White, 128GB) (Renewed)",Samsung,5,1
+1913,Samsung Galaxy Centura SCH-S738C - (Net10),Samsung,1,1
+1914,"Samsung Galaxy Express, Gray 8GB (AT&T)",Samsung,2.9,8
+1915,Samsung Galaxy G550T On5 GSM Unlocked 4G LTE Android (Does Not Work With Metro PCS) Smartphone - White - (Renewed),Samsung,2.5,32
+1916,"Samsung Galaxy GS7 Edge, Gold 32GB (Sprint)",Samsung,3.4,25
+1917,"Samsung Galaxy GS7 Edge, Gold 32GB (Verizon Wireless)",Samsung,3.8,37
+1918,Samsung Galaxy Grand Prime Prepaid Smartphone Family Mobile Powered by T-Mobile,Samsung,3.3,9
+1919,Samsung Galaxy J1 Mini 8GB J106H/DS Dual Sim Unlocked Phone - Retail Packaging- Black,Samsung,3.2,169
+1920,Samsung Galaxy J2 Core 2018 Factory Unlocked 4G LTE (USA Latin Caribbean) Android Oreo SM-J260M Dual Sim 8MP 16GB (Lavender),Samsung,4,8
+1921,"Samsung Galaxy J2 Core 2018 International Version, No Warranty Factory Unlocked 4G LTE (USA Latin Caribbean) Android Oreo SM-J260M Dual Sim 8MP 8GB (Black)",Samsung,4.1,300
+1922,"Samsung Galaxy J2 Pure Unlocked 4G LTE J260AZ 16GB Quad Core LCD 5"" 8MP Android 8.1 Desbloqueado",Samsung,1,1
+1923,Samsung Galaxy J3 (2016) J320V Verizon CDMA 4G LTE Quad-Core Phone w/ 8MP Camera- Black (Renewed),Samsung,3.2,18
+1924,Samsung Galaxy J3 (2018) J337A 16GB Unlocked GSM 4G LTE Phone w/ 8MP Camera - Black,Samsung,3.4,18
+1925,Samsung Galaxy J3 (2018) J377A 16GB Unlocked GSM 4G LTE Phone w/ 8MP Camera - Black (Renewed),Samsung,3.6,34
+1926,"Samsung Galaxy J3 2018 (16GB) J337A - 5.0"" HD Display, Android 8.0, 4G LTE AT&T Unlocked GSM Smartphone (Black)",Samsung,4.1,137
+1927,"Samsung Galaxy J3 2018 (16GB) J337A - 5.0in HD Display, Android 8.0, 4G LTE AT&T Unlocked GSM Smartphone (Blue/Silver) (Renewed)",Samsung,3.8,54
+1928,Samsung Galaxy J3 Emerge J327P SILVER Android Cell Phone - SPRINT,Samsung,5,1
+1929,Samsung Galaxy J3 Emerge J327P SILVER Android Cell Phone - SPRINT (Renewed),Samsung,1,1
+1930,"Samsung Galaxy J3 Express Prime 2 SM-J327A 4G LTE 7.0 Nougat 5"" Smartphone (AT&T) - Black",Samsung,3.9,50
+1931,"Samsung Galaxy J3 Prime J327A 16GB 4G LTE 7.0 Nougat 5"" GSM Unlocked - Black",Samsung,3.7,183
+1932,"Samsung Galaxy J3 Prime J327A | (16GB, 1.5 RAM) | 5"" Full HD Display | Dual Camera | 2,600 mAh Battery | Android 7.0 Nougat | 4G LTE | GSM Unlocked Smartphone - (Silver)",Samsung,3.7,45
+1933,"Samsung Galaxy J3 Prime SM-J327T 4G LTE 7.0 Nougat 5"" Smartphone (T-Mobile) - Black",Samsung,2.9,13
+1934,"Samsung Galaxy J3, Verizon LTE Prepaid (Black)",Samsung,3.6,91
+1935,"Samsung Galaxy J5 SM-J500H/DS GSM Factory Unlocked Smartphone, International Version (Gold)",Samsung,4.1,645
+1936,"Samsung Galaxy J6 Infinity (64GB, 4GB RAM) 5.6"" HD+ Display J600G/DS, 4G LTE Dual SIM GSM Factory Unlocked, International Version, No Warranty (Blue)",Samsung,3.8,38
+1937,Samsung Galaxy J7 - Verizon Carrier Locked No Contract Prepaid Smartphone,Samsung,3.6,381
+1938,"Samsung Galaxy J7 2018 (16GB) J737A - 5.5 HD Display, Android 8.0, Octa-core 4G LTE at&T Unlocked Smartphone (Black)",Samsung,4,54
+1939,"Samsung Galaxy J7 4G LTE 5"" 16 GB GSM Unlocked - Black",Samsung,3.6,27
+1940,Samsung Galaxy J7 J727A 16GB AT&T Branded GSM Unlocked (Black) (Renewed),Samsung,3.6,38
+1941,Samsung Galaxy J7 Refine - Virgin Mobile - Prepaid Cell Phone - Carrier Locked,Samsung,3.4,42
+1942,Samsung Galaxy J7 V Verizon Wireless - Silver (Renewed),Samsung,3.1,4
+1943,"Samsung Galaxy J8 (2018) J810M 32GB 3GB RAM 6.0"" Octa-Core 1.8GHz 4G LTE GSM Single SIM 16.0 MP Factory Unlocked Fingerprint International Version, No Warranty (Black)",Samsung,4.4,5
+1944,Samsung Galaxy M10 M105M 16GB Unlocked GSM Phone w/Dual 13 MP & 5 MP Camera - Ocean Blue,Samsung,4.1,32
+1945,Samsung Galaxy M20 M205M 32GB Unlocked GSM Phone w/Dual 13 MP & 5 MP Camera - Charcoal Black,Samsung,4.1,29
+1946,"Samsung Galaxy Mega 2, Brown Black 16GB (AT&T)",Samsung,3.2,106
+1947,Samsung Galaxy Mega 6.3 I527 16GB Unlocked GSM 4G LTE Smartphone w/ 8MP Camera - White,Samsung,2.8,32
+1948,"Samsung Galaxy Note 10 Factory Unlocked Cell Phone with 256GB (U.S. Warranty), Aura Black/ Note10 (Renewed)",Samsung,3.5,18
+1949,"Samsung Galaxy Note 10 SM-N970F/DS 256GB 8GB RAM (Factory Unlocked) 6.3"" (GSM ONLY, No CDMA) - International Version (Aura Glow)",Samsung,5,2
+1950,"Samsung Galaxy Note 10+ N975F/DS 256GB, 6.8' Dynamic AMOLED Screen, 12GB RAM, Quad Camera, 4K UHD Factory Unlocked LTE Smartphone - (International Version) (Aura Black)",Samsung,3.6,7
+1951,"Samsung Galaxy Note 10+ Plus 256GB GSM Unlocked Smartphone, Aura Glow / Silver (Renewed)",Samsung,2.8,11
+1952,"Samsung Galaxy Note 10+ Plus Factory Unlocked Cell Phone with 512GB (U.S. Warranty), Aura Black/ Note10+",Samsung,4.3,475
+1953,Samsung Galaxy Note 3 N900A 32GB Unlocked GSM Octa-Core Smartphone w/ 13MP Camera - Black,Samsung,3.6,431
+1954,"Samsung Galaxy Note 3, Black 32GB (Verizon Wireless)",Samsung,3.9,983
+1955,Samsung Galaxy Note 4 N910P 32GB Frosted White - Sprint (Renewed),Samsung,3.2,10
+1956,Samsung Galaxy Note 4 N910v 32GB Verizon Wireless CDMA Smartphone - Frosted White (Renewed),Samsung,3,116
+1957,"Samsung Galaxy Note 4, Frosted White 32GB (Sprint)",Samsung,3.2,227
+1958,"Samsung Galaxy Note 4, Frosted White 32GB (Verizon Wireless)",Samsung,3.4,1
+1959,Samsung Galaxy Note 5 32GB GSM Unlocked - Black (Renewed) (D132),Samsung,3.2,301
+1960,Samsung Galaxy Note 5 32GB N920P Gold Platinum - Sprint (Certified Refurbished),Samsung,3.3,69
+1961,Samsung Galaxy Note 5 N920A 32GB GSM Unlocked - White,Samsung,3.2,16
+1962,Samsung Galaxy Note 5 N920A 64GB - Gold Platinum (AT&T),Samsung,4,12
+1963,Samsung Galaxy Note 5 N920A 64GB at&T GSM Unlocked - Gold Platinum,Samsung,3.8,10
+1964,"Samsung Galaxy Note 5 N920A, Black 32GB - at&T GSM Unlocked",Samsung,3.3,50
+1965,Samsung Galaxy Note 5 N920T 32GB - White (T-Mobile),Samsung,3.7,14
+1966,Samsung Galaxy Note 5 SM-N920T 32GB Black Smartphone for T-Mobile,Samsung,3.5,91
+1967,Samsung Galaxy Note 5 SM-N920T 32GB Platinum Gold - T-Mobile,Samsung,3.7,9
+1968,Samsung Galaxy Note 5 SM-N920T 32GB Platinum Gold - T-Mobile Unlocked GSM,Samsung,3.2,26
+1969,Samsung Galaxy Note 5 SM-N920T 32GB T-Mobile GSM Unlocked - Sapphire Black,Samsung,3.2,24
+1970,Samsung Galaxy Note 5 SM-N920T 32GB T-Mobile GSM Unlocked - White Pearl (Renewed),Samsung,2.1,10
+1971,Samsung Galaxy Note 5 SM-N920T 64GB Platinum Gold - T-Mobile,Samsung,4.1,2
+1972,Samsung Galaxy Note 5 SM-N920T 64GB White - T-Mobile (Certified Refurbished),Samsung,5,1
+1973,Samsung Galaxy Note 5 SM-N920T 64gb - Unlocked Cellphone GSM - Platinum Gold (T - Mobile),Samsung,2.7,34
+1974,Samsung Galaxy Note 5 SM-N920V 32GB White Smartphone for Verizon (Renewed),Samsung,3.2,289
+1975,Samsung Galaxy Note 5 SM-N920V Gold 32GB (Verizon Wireless),Samsung,3.6,799
+1976,"Samsung Galaxy Note 5, Black  64GB (Verizon Wireless)",Samsung,3.6,799
+1977,"Samsung Galaxy Note 5, N920P 64GB - Gold Platinum (Sprint)",Samsung,3.9,6
+1978,Samsung Galaxy Note 8 64GB Unlocked GSM LTE Android Phone w/ Dual 12 Megapixel Camera - Midnight Black,Samsung,3.7,104
+1979,Samsung Galaxy Note 8 N950 Factory Unlocked Phone 64GB Midnight Black (Renewed),Samsung,4,891
+1980,Samsung Galaxy Note 8 N950U 64GB - Sprint (Midnight Black),Samsung,4,10
+1981,Samsung Galaxy Note 8 N950U 64GB - T-Mobile (Orchid Gray),Samsung,4.1,14
+1982,Samsung Galaxy Note 8 N950U 64GB Unlocked GSM 4G LTE Android Smartphone w/Dual 12 MegaPixel Camera (Renewed) (Midnight Black),Samsung,4.2,551
+1983,Samsung Galaxy Note 8 SM-N950U 64GB AT&T - Orchid Grey,Samsung,4.4,54
+1984,Samsung Galaxy Note 8 SM-N950U 64GB Gray Verizon Unlocked -Excellent,Samsung,4.4,54
+1985,"Samsung Galaxy Note 9 (SM-N960F/DS) 6GB / 128GB (Ocean Blue) 6.4-inches LTE Dual SIM (GSM ONLY, NO CDMA) Factory Unlocked - International Stock No Warranty",Samsung,4.4,85
+1986,Samsung Galaxy Note 9 128GB - Lavender Purple - Verizon Wireless (Renewed),Samsung,5,1
+1987,Samsung Galaxy Note 9 128GB Smartphone for AT&T - Midnight Black (Renewed),Samsung,3.7,14
+1988,"Samsung Galaxy Note 9 Factory Unlocked Phone with 6.4"" Screen and 128GB (U.S. Warranty), Ocean Blue",Samsung,4.1,873
+1989,Samsung Galaxy Note 9 N960U 128GB CDMA + GSM Unlocked Smartphone,Samsung,3.7,7
+1990,Samsung Galaxy Note 9 N960U 128GB Sprint - Ocean Blue (Renewed),Samsung,3.8,4
+1991,Samsung Galaxy Note 9 N960U 128GB T-Mobile GSM Unlocked - Lavender Purple (Renewed),Samsung,4.2,57
+1992,Samsung Galaxy Note 9 N960U 128GB T-Mobile GSM Unlocked - Midnight Black,Samsung,4.5,9
+1993,Samsung Galaxy Note 9 N960U 128GB T-Mobile GSM Unlocked - Ocean Blue,Samsung,4.5,9
+1994,Samsung Galaxy Note 9 N960U 128GB T-Mobile GSM Unlocked Phone (Midnight Black) (Renewed),Samsung,4.3,10
+1995,"Samsung Galaxy Note 9 N960U 128GB T-Mobile GSM Unlocked Phone (Ocean Blue, 128GB)(Renewed)",Samsung,4.3,80
+1996,"Samsung Galaxy Note 9 SM-N9600 Dual SIM (128GB/6GB, Lavender Purple) 6.4"" QHD+ sAMOLED Factory Unlocked GSM (No CDMA) - International Version (No Warranty)",Samsung,4.1,55
+1997,Samsung Galaxy Note 9 SM-N960F/DS 128GB/6GB 6.4? QHD+ sAMOLED Factory Unlocked GSM (No CDMA) - International Version (No Warranty in The USA) (Ocean Blue) - Ocean Blue,Samsung,4.3,80
+1998,"Samsung Galaxy Note 9 SM-N960F/DS 512GB/8GB (Metallic Copper) 6.4"" QHD+ sAMOLED Factory Unlocked GSM (No CDMA) - International Version (No Warranty in The USA)",Samsung,4.8,18
+1999,"Samsung Galaxy Note 9 SM-N960F/DS 512GB/8GB (Midnight Black) 6.4"" QHD+ sAMOLED Factory Unlocked GSM (No CDMA) - International Version (No Warranty in The USA)",Samsung,4.1,10
+2000,Samsung Galaxy Note 9 SM-N960U 128GB Ocean Blue - Verizon (Renewed),Samsung,3.9,28
+2001,Samsung Galaxy Note 9 Verizon Ocean Blue 128GB,Samsung,4.7,6
+2002,Samsung Galaxy Note8 Certified Pre-Owned Factory Unlocked Phone - 64GB - Black (1 Year Samsung U.S. Warranty) (Renewed),Samsung,5,1
+2003,Samsung Galaxy Note8 N950U 64GB Unlocked GSM LTE Android Phone w/ Dual 12 Megapixel Camera - Midnight Black,Samsung,3.9,546
+2004,"Samsung Galaxy Note9 128GB (Single-SIM) SM-N960F (GSM Only, No CDMA) Factory Unlocked 4G/LTE Smartphone - International Version (Ocean Blue)",Samsung,3,9
+2005,Samsung Galaxy Note9 Factory Unlocked Phone with 6.4in Screen and 128GB - Ocean Blue (Renewed),Samsung,4.1,1
+2006,Samsung Galaxy Note9 N9600 128GB Unlocked GSM Duos Phone w/Dual 12MP Camera - Midnight Black (International Version) (No Warranty),Samsung,4.2,39
+2007,Samsung Galaxy Note9 Smartphone 6.4in AT&T Android 512GB (Ocean Blue)(Renewed),Samsung,1,1
+2008,Samsung Galaxy Prevail II (Boost Mobile) (Discontinued by Manufacturer),Samsung,3.5,314
+2009,Samsung Galaxy Prime 16GB J327 J3 AT&T T-Mobile Unlocked Smartphone - Silver (Renewed),Samsung,3.6,108
+2010,Samsung Galaxy Rugby Pro 4G LTE I547 Unlocked Android Ruggedized Smart Phone,Samsung,3.2,365
+2011,"Samsung Galaxy S10 128GB / 8GB RAM SM-G973F Hybrid/Dual-SIM (GSM Only, No CDMA) Factory Unlocked 4G/LTE Smartphone - International Version (Prism Blue)",Samsung,4.3,16
+2012,"Samsung Galaxy S10 128GB+8GB RAM SM-G973F/DS Dual Sim 6.1"" LTE Factory Unlocked Smartphone (International Model No Warranty) (Prism White)",Samsung,4.4,300
+2013,Samsung Galaxy S10 Factory Unlocked Phone with 128GB - Prism Black,Samsung,4.2,346
+2014,Samsung Galaxy S10 Plus G975U 128GB T-Mobile GSM Unlocked - Prism Black (Renewed),Samsung,5,1
+2015,"Samsung Galaxy S10 SM-G9730 - International Version - No Warranty in The USA - GSM ONLY, NO CDMA (Prism Black, 128GB/8GB) - Prism Black,128GB/8GB",Samsung,4.4,9
+2016,Samsung Galaxy S10 Verizon + GSM Unlocked 128GB Prism Blue (Renewed),Samsung,3.3,10
+2017,Samsung Galaxy S10 Verizon + GSM Unlocked 128GB Prism White (Renewed),Samsung,3.3,10
+2018,"Samsung Galaxy S10+ Plus 128GB+8GB RAM SM-G975F/DS Dual Sim 6.4"" LTE Factory Unlocked Smartphone International Model, No Warranty (Prism Black)",Samsung,4.3,193
+2019,"Samsung Galaxy S10+ Plus 512GB / 8GB RAM SM-G975F/DS Hybrid/Dual-SIM (GSM Only, No CDMA) Factory Unlocked 4G/LTE Smartphone - International Version No Warranty (Ceramic White)",Samsung,4.4,40
+2020,Samsung Galaxy S10+ Plus Verizon + GSM Unlocked 128GB Blue,Samsung,5,3
+2021,Samsung Galaxy S10+ Plus Verizon + GSM Unlocked 128GB Blue (Renewed),Samsung,2.4,14
+2022,Samsung Galaxy S10+ Plus Verizon + GSM Unlocked 128GB Flamingo Pink (Renewed),Samsung,3,1
+2023,Samsung Galaxy S10+ Plus Verizon + GSM Unlocked 128GB Prism Black (Renewed),Samsung,3.1,14
+2024,Samsung Galaxy S10+ Plus Verizon + GSM Unlocked 128GB Prism White (Renewed),Samsung,1.5,5
+2025,Samsung Galaxy S10+ Plus Verizon + GSM Unlocked 512GB Ceramic Black,Samsung,5,1
+2026,Samsung Galaxy S10e (SM-G970U) GSM Unlocked + Verizon - 128GB / Prism Blue (Renewed),Samsung,1,1
+2027,"Samsung Galaxy S10e 128GB SM-G970F/DS Hybrid/Dual-SIM (GSM Only, No CDMA) Factory Unlocked 4G/LTE Smartphone - International Version No Warranty (Prism Black)",Samsung,4,8
+2028,"Samsung Galaxy S10e 128GB+6GB RAM SM-G970 Dual Sim 5.8"" LTE Factory Unlocked Smartphone (International Model) (Prism Black)",Samsung,4.5,213
+2029,"Samsung Galaxy S10e Factory Unlocked Phone with 128GB (U.S. Warranty), Prism Blue (Renewed)",Samsung,4,189
+2030,"Samsung Galaxy S10e Factory Unlocked Phone with 128GB, Prism White (Renewed)",Samsung,4,189
+2031,"Samsung Galaxy S10e G970U Sprint + GSM Unlocked 256GB (U.S. Warranty), Flamingo Pink (Renewed)",Samsung,1,1
+2032,Samsung Galaxy S10e Verizon + GSM Unlocked 128GB Prism Black (Renewed),Samsung,3.3,15
+2033,Samsung Galaxy S10e Verizon + GSM Unlocked 128GB Prism Blue,Samsung,5,1
+2034,Samsung Galaxy S10e Verizon + GSM Unlocked 128GB Prism White (Renewed),Samsung,3.3,15
+2035,"Samsung Galaxy S20 FE 5G Cloud Lavender 6.5"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2036,"Samsung Galaxy S20 FE 5G Cloud Mint 6.5"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2037,"Samsung Galaxy S20 FE Powdered Cloud Navy 6.5"" 128GB 4G Unlocked & SIM Free Smartphone",Samsung,,9
+2038,"Samsung Galaxy S21 FE Graphite 6.4"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,9
+2039,"Samsung Galaxy S21 FE Lavender 6.4"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2040,"Samsung Galaxy S21 FE Olive 6.4"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2041,"Samsung Galaxy S21 Phantom Grey 6.2"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,14
+2042,"Samsung Galaxy S21 Phantom Pink 6.2"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,1
+2043,"Samsung Galaxy S21+ Phantom Violet 6.7"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,1
+2044,"Samsung Galaxy S22 Bora Purple 6.1"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2045,"Samsung Galaxy S22 Bora Purple 6.1"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2046,"Samsung Galaxy S22 Green 6.1"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,2
+2047,"Samsung Galaxy S22 Phantom Black 6.1"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,10
+2048,"Samsung Galaxy S22 Phantom White 6.1"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,2
+2049,"Samsung Galaxy S22 Pink Gold 6.1"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,2
+2050,"Samsung Galaxy S22 Ultra Phantom Black 6.8"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2051,"Samsung Galaxy S22+ Phantom Black 6.6"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2052,"Samsung Galaxy S22+ Phantom White 6.6"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2053,"Samsung Galaxy S23 Cream 6.1"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,1
+2054,"Samsung Galaxy S23 Cream 6.1"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2055,"Samsung Galaxy S23 Green 6.1"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2056,"Samsung Galaxy S23 Green 6.1"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2057,"Samsung Galaxy S23 Lavender 6.1"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2058,"Samsung Galaxy S23 Lavender 6.1"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,2
+2059,"Samsung Galaxy S23 Phantom Black 6.1"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2060,"Samsung Galaxy S23 Phantom Black 6.1"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,3
+2061,"Samsung Galaxy S23 Ultra Cream 6.8"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,1062
+2062,"Samsung Galaxy S23 Ultra Cream 6.8"" 512GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2063,"Samsung Galaxy S23 Ultra Green 6.8"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,1062
+2064,"Samsung Galaxy S23 Ultra Green 6.8"" 512GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2065,"Samsung Galaxy S23 Ultra Lavender 6.8"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,1062
+2066,"Samsung Galaxy S23 Ultra Lavender 6.8"" 512GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2067,"Samsung Galaxy S23 Ultra Phantom Black 6.8"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,1
+2068,"Samsung Galaxy S23 Ultra Phantom Black 6.8"" 512GB 5G Unlocked & SIM Free Smartphone",Samsung,,2
+2069,"Samsung Galaxy S23+ Cream 6.6"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,30
+2070,"Samsung Galaxy S23+ Cream 6.6"" 512GB 5G Unlocked & SIM Free Smartphone",Samsung,,102
+2071,"Samsung Galaxy S23+ Green 6.6"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,30
+2072,"Samsung Galaxy S23+ Green 6.6"" 512GB 5G Unlocked & SIM Free Smartphone",Samsung,,102
+2073,"Samsung Galaxy S23+ Lavender 6.6"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2074,"Samsung Galaxy S23+ Lavender 6.6"" 512GB 5G Unlocked & SIM Free Smartphone",Samsung,,102
+2075,"Samsung Galaxy S23+ Phantom Black 6.6"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2076,Samsung Galaxy S4 16GB Black SPH-L720T Tri-Band (Boost Mobile),Samsung,3.7,138
+2077,Samsung Galaxy S4 16GB SPH-L720 4G LTE Android - Sprint (Blue),Samsung,3.3,135
+2078,"Samsung Galaxy S4 GT-I9500 Factory Unlocked Cellphone, 16GB, White",Samsung,3.8,1
+2079,Samsung Galaxy S4 M919 16GB T-Mobile 4G LTE Smartphone - Black Mist,Samsung,3.7,111
+2080,Samsung Galaxy S4 M919 16GB Unlocked GSM 4G LTE Quad-Core Smartphone - White Frost,Samsung,2.6,32
+2081,"Samsung Galaxy S4 SGH-I337 USA GSM Unlocked Cellphone, 16GB, Frost White",Samsung,2.8,175
+2082,"Samsung Galaxy S4, Black Mist 16GB (Sprint)",Samsung,3.5,561
+2083,"Samsung Galaxy S4, White Frost 16GB (AT&T)",Samsung,3.7,641
+2084,"Samsung Galaxy S4, White Frost 16GB (Sprint)",Samsung,3.8,354
+2085,"Samsung Galaxy S5 G900A Factory Unlocked Cellphone, Android 16GB, Gold",Samsung,3.2,1
+2086,Samsung Galaxy S5 G900V Verizon 4G LTE Smartphone w/ 16MP Camera - Black - Verizon,Samsung,3.2,627
+2087,Samsung Galaxy S5 SM-G900T - 16GB - Shimmery White Smart Phone - Unlocked (Renewed),Samsung,3.4,2
+2088,"Samsung Galaxy S5, G900P 16GB White - Sprint",Samsung,3.7,5
+2089,Samsung Galaxy S6 (SM-G920V) - 32GB Verizon + GSM Smartphone - Black Sapphire (Renewed),Samsung,3.7,173
+2090,"Samsung Galaxy S6 (Verizon) Certified Pre-Owned Prepaid Carrier Locked, White",Samsung,2.5,3
+2091,Samsung Galaxy S6 32GB G920A AT&T Unlocked - Gold Platinum,Samsung,2.8,134
+2092,"Samsung Galaxy S6 Active, 32 GB , Grey (AT&T)",Samsung,3.7,325
+2093,Samsung Galaxy S6 Edge G925F 32GB Unlocked Phone - Retail Packaging - Black Sapphire,Samsung,2.3,7
+2094,Samsung Galaxy S6 Edge G925P 32GB Gold - Sprint (Renewed),Samsung,1,1
+2095,Samsung Galaxy S6 Edge G925P 32GB White Pearl - Sprint (Certified Refurbished),Samsung,5,2
+2096,Samsung Galaxy S6 Edge G925T 64GB Gold Platinum - T-Mobile,Samsung,2.4,2
+2097,Samsung Galaxy S6 Edge G925T 64GB White Pearl - T-Mobile,Samsung,2,1
+2098,Samsung Galaxy S6 Edge Plus SM-G928T 32GB for T-Mobile (Renewed),Samsung,4,12
+2099,"Samsung Galaxy S6 Edge+, Black 64GB (Sprint)",Samsung,3.9,162
+2100,"Samsung Galaxy S6 Edge, White Pearl 32GB (Verizon Wireless)",Samsung,3.5,505
+2101,"Samsung Galaxy S6 G920 32GB Unlocked GSM 4G LTE Octa-Core Smartphone, Gold Platinum",Samsung,3.4,184
+2102,Samsung Galaxy S6 G920A 32GB Unlocked GSM (Black Sapphire) (Renewed),Samsung,3.2,31
+2103,Samsung Galaxy S6 G920A 32GB Unlocked GSM 4G LTE Octa-Core Android Smartphone with 16MP Camera - Black Sapphire,Samsung,2.9,338
+2104,Samsung Galaxy S6 G920A 64GB Unlocked GSM 4G LTE Octa-Core Android Smartphone w/ 16MP Camera - White,Samsung,3.3,14
+2105,Samsung Galaxy S6 G920A 64GB Unlocked GSM 4G LTE Octa-Core Android Smartphone with 16MP Camera - Black Sapphire,Samsung,2.9,61
+2106,Samsung Galaxy S6 G920P 32GB Black Boost Mobile Smartphone,Samsung,3.7,29
+2107,Samsung Galaxy S6 G920T 32GB Unlocked GSM 4G LTE Octa-Core Android Smartphone w/ 16MP Camera - Black,Samsung,3.3,142
+2108,Samsung Galaxy S6 G920T Unlocked GSM 4G LTE Smartphone w/ 16MP Camera - White Pearl,Samsung,2.9,55
+2109,Samsung Galaxy S6 G920V 32GB Verizon 4G LTE Smartphone W/ 16MP Camera - White,Samsung,3.4,45
+2110,Samsung Galaxy S6 G920v 32GB Verizon Wireless CDMA Smartphone - Gold Platinum (Renewed),Samsung,3.2,90
+2111,Samsung Galaxy S6 SM-G920A 32GB Unlocked GSM 4G LTE Octa-Core Smartphone w/ 16MP Camera - White (Renewed),Samsung,2.9,11
+2112,Samsung Galaxy S6 SM-G920A 32GB White Smartphone for AT&T (Renewed),Samsung,3.6,139
+2113,Samsung Galaxy S6 SM-G920V 32GB Gold Smartphone for Verizon (Renewed),Samsung,3.5,1
+2114,Samsung Galaxy S6 SM-G920V 32GB Sapphire Black Smartphone for Verizon (Renewed),Samsung,3.5,1
+2115,"Samsung Galaxy S6, Black Sapphire 32GB (Verizon Wireless)",Samsung,3.5,1
+2116,"Samsung Galaxy S6, G920P White Pearl 32GB - Sprint (Renewed)",Samsung,3.1,124
+2117,Samsung Galaxy S7 - Black - 32GB - Verizon (Renewed),Samsung,3.8,600
+2118,Samsung Galaxy S7 32GB G930V Unlocked - Black,Samsung,3.2,250
+2119,Samsung Galaxy S7 32GB GSM Unlocked Smartphone for GSM Carriers - Black,Samsung,3.2,5
+2120,Samsung Galaxy S7 32GB T-Mobile - Gold Platinum,Samsung,3.8,194
+2121,Samsung Galaxy S7 32GB Unlocked (Verizon Wireless) - Gold,Samsung,3.2,250
+2122,Samsung Galaxy S7 32gb Gold AT&T,Samsung,4,37
+2123,Samsung Galaxy S7 Active 32GB Camo Green GSM Unlocked,Samsung,3.3,31
+2124,"Samsung Galaxy S7 Active G891A 32GB Unlocked GSM Shatter,Dust and Water Resistant Smartphone w/ 12MP Camera (AT&T) - Sandy Gold",Samsung,3.5,160
+2125,Samsung Galaxy S7 Active SM-G891A 32GB Sandy Gold No-Contract AT&T,Samsung,3.6,39
+2126,"Samsung Galaxy S7 EDGE G935V 32GB, Verizon/GSM Unlocked, (Renewed) (Black)",Samsung,3.8,606
+2127,Samsung Galaxy S7 Edge 32GB G935A GSM Unlocked (Renewed) (Black),Samsung,3.5,301
+2128,Samsung Galaxy S7 Edge 32GB G935A GSM Unlocked - Pink Gold,Samsung,3.2,2
+2129,Samsung Galaxy S7 Edge G935A 32GB AT&T - Black Onyx,Samsung,3.5,211
+2130,Samsung Galaxy S7 Edge G935A 32GB Gold - Unlocked GSM (Renewed),Samsung,4,308
+2131,Samsung Galaxy S7 Edge G935A 32GB Unlocked GSM Smartphone w/12MP Camera - Black,Samsung,3.5,25
+2132,Samsung Galaxy S7 Edge G935FD 32GB Unlocked GSM 4G LTE,Samsung,3.8,783
+2133,Samsung Galaxy S7 Edge G935P 32GB Black - Sprint (Renewed),Samsung,3.6,60
+2134,Samsung Galaxy S7 Edge G935P SM-G935P 32GB - Sprint & GSM Unlocked (Black Onyx),Samsung,5,1
+2135,Samsung Galaxy S7 Edge G935V 32GB Gold - Verizon (Renewed),Samsung,3.8,606
+2136,"Samsung Galaxy S7 Edge G935v 32GB Smartphone for Verizon Wireless CDMA, Coral Blue (Renewed)",Samsung,3.6,27
+2137,Samsung Galaxy S7 Edge Smartphone - GSM Unlocked - 32 GB - No Warranty - Black,Samsung,3.3,63
+2138,Samsung Galaxy S7 Edge Verizon Wireless CDMA 4G LTE Smartphone w/ 12MP Camera and Infinity Screen - Silver,Samsung,3.6,16
+2139,"Samsung Galaxy S7 Edge, 5.5"" 32GB (Verizon Wireless) - Blue",Samsung,3.7,181
+2140,Samsung Galaxy S7 G930A 32GB Black Onyx - Unlocked GSM,Samsung,3.7,92
+2141,Samsung Galaxy S7 G930A 32GB Unlocked GSM 4G LTE Quad-Core Phone w/ 12MP Camera - Rose Gold (Renewed),Samsung,4.5,6
+2142,Samsung Galaxy S7 G930P 32GB Gold - Sprint (Renewed),Samsung,3.5,140
+2143,Samsung Galaxy S7 G930T 32GB T-Mobile - Black,Samsung,3.8,194
+2144,Samsung Galaxy S7 G930T 32GB T-Mobile Unlocked - Black,Samsung,4.1,41
+2145,Samsung Galaxy S7 G930T 32GB T-Mobile Unlocked - Gold (Certified Refurbished),Samsung,2.8,5
+2146,Samsung Galaxy S7 G930T T-Mobile Unlocked GSM - Gold,Samsung,4,44
+2147,"Samsung Galaxy S7 G930V 32GB, Verizon, Black Onyx, Unlocked Smartphones (Renewed)",Samsung,3.7,190
+2148,"Samsung Galaxy S7 SM-G930A AT&T Unlocked Smartphone, (Black Onyx)",Samsung,3.1,394
+2149,"Samsung Galaxy S7, Black 32GB (Verizon Wireless)",Samsung,3.6,220
+2150,"Samsung Galaxy S7, G930P Gold 32GB (Sprint)",Samsung,3.9,56
+2151,"Samsung Galaxy S8 (64GB) G950U 5.8"" 4G LTE Unlocked (GSM + CDMA, US WARRANTY) (Midnight Black)",Samsung,2.4,16
+2152,Samsung Galaxy S8 - Unlocked - Midnight Black (Renewed),Samsung,4,1
+2153,Samsung Galaxy S8 64 GB Unlocked Phone with FREE Cellairis Phone Case & Screen Protector,Samsung,3.2,2
+2154,Samsung Galaxy S8 64GB Factory Unlocked Smartphone - US Version (Midnight Black) - US Warranty - [SM-G950UZKAXAA],Samsung,4,2
+2155,Samsung Galaxy S8 64GB G950U AT&T Unlocked - Arctic Silver (Renewed),Samsung,4.1,8
+2156,Samsung Galaxy S8 64GB GSM Unlocked Phone - International Version (Orchid Gray),Samsung,3.1,20
+2157,Samsung Galaxy S8 64GB GSM Unlocked Phone - US Version (Coral Blue),Samsung,4,3
+2158,Samsung Galaxy S8 64GB Phone - 5.8in Unlocked Smartphone - Midnight Black (Renewed),Samsung,4.1,167
+2159,"Samsung Galaxy S8 64GB Phone- 5.8"" display - AT&T Unlocked (Midnight Black)",Samsung,3.5,48
+2160,Samsung Galaxy S8 64GB SM-G950U Midnight Black - Sprint (Renewed),Samsung,3.2,9
+2161,Samsung Galaxy S8 64GB SM-G950U Orchid Gray - Sprint (Renewed),Samsung,3.9,11
+2162,Samsung Galaxy S8 64GB Unlocked Phone - International Version (Maple Gold),Samsung,4,117
+2163,Samsung Galaxy S8 64GB Unlocked Phone - US Version (Orchid Gray),Samsung,3.6,24
+2164,"Samsung Galaxy S8 Active (G892A) AT&T Military-Grade Durable Smartphone w/ 5.8"" Shatter-Resistant Glass, Meteor Gray",Samsung,3.9,94
+2165,Samsung Galaxy S8 Active 64GB SM-G892A Unlocked GSM - Meteor Gray (Renewed),Samsung,3.9,185
+2166,Samsung Galaxy S8 Active 64GB SM-G892U Sprint CDMA/GSM Unlocked - Meteor Gray (Renewed),Samsung,3.3,15
+2167,Samsung Galaxy S8 Certified Pre-Owned Factory Unlocked Phone - 5.8Inch Screen - 64GB - Midnight Black (U.S. Warranty)(Renewed),Samsung,3.9,84
+2168,Samsung Galaxy S8 G950U 64GB - Prepaid Boost Mobile (Orchid Gray),Samsung,3.2,5
+2169,Samsung Galaxy S8 G950U 64GB AT&T GSM Unlocked Phone - Orchid Grey,Samsung,2.5,4
+2170,Samsung Galaxy S8 Orchid Gray 64GB Verizon and GSM Factory Unlocked 4G LTE (Renewed),Samsung,3.9,1
+2171,Samsung Galaxy S8 Plus (S8+) (SM-G955FD) 4GB RAM / 64GB ROM 6.2-Inch 12MP 4G LTE Dual SIM FACTORY UNLOCKED - International Stock No Warranty (MAPLE GOLD),Samsung,4.1,112
+2172,Samsung Galaxy S8 Plus (S8+) (SM-G955FD) 4GB RAM / 64GB ROM 6.2-Inch 12MP 4G LTE Dual SIM FACTORY UNLOCKED - International Stock No Warranty (MIDNIGHT BLACK),Samsung,4,480
+2173,Samsung Galaxy S8 Plus 64GB Orchid Gray AT&T,Samsung,3.5,4
+2174,Samsung Galaxy S8 Plus Unlocked 64GB (Midnight Black) - (Renewed),Samsung,4,1
+2175,"Samsung Galaxy S8 SM-G950F Unlocked 64GB - International Version/No Warranty (GSM Only, No CDMA) (Midnight Black)",Samsung,3.9,117
+2176,Samsung Galaxy S8 SM-G950UZSAVZW - Verizon - Coral Blue (Renewed) …,Samsung,5,2
+2177,Samsung Galaxy S8 SM-G950UZVAATT - AT&T - Midnight Black (Renewed),Samsung,2.8,4
+2178,"Samsung Galaxy S8+ 64GB Factory Unlocked Smartphone - 6.2"" Screen - US Version (Midnight Black) - US Warranty [SM-G955UZKAXAA]",Samsung,3.7,793
+2179,Samsung Galaxy S8+ 64GB GSM Unlocked Phone - International Version (Midnight Black),Samsung,4,54
+2180,"Samsung Galaxy S8+ 64GB Phone -6.2"" display - T-Mobile Unlocked (Arctic Silver)",Samsung,4.1,83
+2181,Samsung Galaxy S8+ Certified Pre-Owned Factory Unlocked Phone - 6.2Inch Screen - 64GB - Midnight Black (U.S. Warranty) (Renewed),Samsung,4.2,11
+2182,Samsung Galaxy S8+ G955U 64GB T-Mobile GSM Smartphone w/ 12MP Camera - Arctic Silver,Samsung,3.8,2
+2183,Samsung Galaxy S8+ G955U 64GB Unlocked GSM U.S. Version Phone w/ 12MP Camera - Arctic Silver,Samsung,2.6,6
+2184,Samsung Galaxy S8+ G955U 64GB Unlocked GSM U.S. Version Phone w/ 12MP Camera - Midnight Black,Samsung,3.3,10
+2185,Samsung Galaxy S8+ G955U 64GB Unlocked GSM U.S. Version Smartphone w/ 12MP Camera - Orchid Gray,Samsung,3.6,19
+2186,Samsung Galaxy S8+ Plus 64GB Sprint (Midnight Black) (Renewed),Samsung,4.3,6
+2187,Samsung Galaxy S8+ Plus 64GB T-Mobile GSM Unlocked (Renewed) (Orchid Gray),Samsung,4.2,89
+2188,Samsung Galaxy S8+ SM-G955U 64GB Arctic Silver AT&T,Samsung,3.1,8
+2189,"Samsung Galaxy S8+, 6.2"" 64GB (Verizon Wireless) - Midnight Black",Samsung,4.1,54
+2190,"Samsung Galaxy S8+, 6.2"" 64GB SPRINT Midnight Black",Samsung,3.3,3
+2191,"Samsung Galaxy S9 (64GB, 4GB RAM) 5.8"" QHD+ Display, IP68 Water Resistance, 3000mAh Battery - GSM/CDMA Unlocked (AT&T/T-Mobile/Verizon/Sprint) w/US Warranty - SM-G960U (Midnight Black)",Samsung,4.4,23
+2192,"Samsung Galaxy S9 (SM-G960F/DS) 4GB / 64GB 5.8-inches LTE Dual SIM (GSM Only, No CDMA) Factory Unlocked - International Stock No Warranty (Midnight Black, Phone Only)",Samsung,4.3,122
+2193,Samsung Galaxy S9 - GSM Unlocked - 64GB (Renewed) (Midnight Black),Samsung,5,2
+2194,Samsung Galaxy S9 Enterprise Edition 64 GB Unlocked Phone With FREE Cellairis Phone Case & Screen Protector,Samsung,1,1
+2195,Samsung Galaxy S9 G960U 64GB Unlocked GSM 4G LTE Phone w/ 12MP Camera - Midnight Black,Samsung,4.1,2
+2196,Samsung Galaxy S9 G960U Verizon + GSM Unlocked 64GB (Midnight Black),Samsung,3.6,29
+2197,"Samsung Galaxy S9 Plus (6.2"", Dual SIM) 64GB SM-G965F/DS Factory Unlocked LTE Smartphone (Lilac Purple) - International Version",Samsung,4.3,25
+2198,Samsung Galaxy S9 Plus Verizon + GSM Unlocked 64GB Midnight Black (Renewed),Samsung,4.2,355
+2199,"Samsung Galaxy S9 SM-G9600 Dual Sim 5.8"", Super AMOLED, 64GB,4 GB RAM Factory Unlocked No Warranty - Sunrise Gold",Samsung,3.9,2
+2200,Samsung Galaxy S9 SM-G960U 64GB for T-Mobile (Renewed),Samsung,3.6,32
+2201,"Samsung Galaxy S9 Single SIM 64GB SM-G9600 Factory Unlocked 4G Smartphone (Midnight Black) -International Version - No Warranty in The USA - GSM ONLY, NO CDMA",Samsung,3.9,95
+2202,"Samsung Galaxy S9 Sm-G9600 Dual Sim 5.8"" Super Amoled, 64GB, 4 GB RAM, Factory Unlocked - No Warranty Midnight Black",Samsung,3.9,95
+2203,Samsung Galaxy S9 Smartphone -Lilac Purple - GSM Only - International Version,Samsung,3.5,8
+2204,Samsung Galaxy S9 Unlocked - 64gb - Midnight Black (Renewed),Samsung,4,1
+2205,Samsung Galaxy S9+ 64GB Unlocked GSM 4G LTE Phone - Lilac Purple (Renewed),Samsung,4.1,1
+2206,Samsung Galaxy S9+ G965U 64GB Lilac Purple - Sprint(Renewed),Samsung,3.8,9
+2207,Samsung Galaxy S9+ Smartphone - Midnight Black - Carrier Locked - Verizon,Samsung,3.8,11
+2208,Samsung Galaxy S9+ Smartphone -Lilac Purple - Carrier Locked - Sprint,Samsung,3.8,11
+2209,Samsung Galaxy S9+ T-Mobile - 64gb - Midnight Black - (Renewed),Samsung,3.8,3
+2210,Samsung Galaxy Tab 4 T237P 7.0-inch 16GB Sprint 4G LTE Android Tablet PC - Black (Certified Refurbished),Samsung,1,1
+2211,Samsung Galaxy Tab E 8in 16GB 4G LTE AT&T Unlocked Android 5.1.1 Lollipop (Renewed),Samsung,2.9,22
+2212,Samsung Galaxy Tab S2 8.0 inch - 32 GB Tablet (Black) SM-T713 WiFi - (Certified Refurbished),Samsung,3.8,3
+2213,"Samsung Galaxy XCover 5 Black 5.3"" 64GB 4G Unlocked & SIM Free Smartphone",Samsung,,0
+2214,"Samsung Galaxy Xcover 6 Pro 6.6"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2215,"Samsung Galaxy Z Flip3 5G Cream 6.7"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2216,"Samsung Galaxy Z Flip3 5G Lavender 6.7"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2217,"Samsung Galaxy Z Flip3 5G Phantom Black 6.7"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,3
+2218,"Samsung Galaxy Z Flip3 5G Pink 6.7"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2219,"Samsung Galaxy Z Flip4 Blue 6.7"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,9
+2220,"Samsung Galaxy Z Flip4 Blue 6.7"" 512GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2221,"Samsung Galaxy Z Flip4 Bora Purple 6.7"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2222,"Samsung Galaxy Z Flip4 Bora Purple 6.7"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,13
+2223,"Samsung Galaxy Z Flip4 Bora Purple 6.7"" 512GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2224,"Samsung Galaxy Z Flip4 Graphite 6.7"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,8
+2225,"Samsung Galaxy Z Flip4 Graphite 6.7"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,5
+2226,"Samsung Galaxy Z Flip4 Graphite 6.7"" 512GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2227,"Samsung Galaxy Z Flip4 Pink Gold 6.7"" 128GB 5G Unlocked & SIM Free Smartphone",Samsung,,8
+2228,"Samsung Galaxy Z Flip4 Pink Gold 6.7"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,1
+2229,"Samsung Galaxy Z Flip4 Pink Gold 6.7"" 512GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2230,"Samsung Galaxy Z Flip5 Cream 6.7"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2231,"Samsung Galaxy Z Flip5 Cream 6.7"" 512GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2232,"Samsung Galaxy Z Flip5 Graphite 6.7"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2233,"Samsung Galaxy Z Flip5 Lavender 6.7"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2234,"Samsung Galaxy Z Flip5 Lavender 6.7"" 512GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2235,"Samsung Galaxy Z Flip5 Mint 6.7"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2236,"Samsung Galaxy Z Flip5 Mint 6.7"" 512GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2237,"Samsung Galaxy Z Fold3 5G Phantom Black 7.6"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2238,"Samsung Galaxy Z Fold4 Beige 7.6"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,1
+2239,"Samsung Galaxy Z Fold4 Beige 7.6"" 512GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2240,"Samsung Galaxy Z Fold4 Greygreen 7.6"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2241,"Samsung Galaxy Z Fold4 Greygreen 7.6"" 512GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2242,"Samsung Galaxy Z Fold4 Phantom Black 7.6"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,2
+2243,"Samsung Galaxy Z Fold4 Phantom Black 7.6"" 512GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2244,"Samsung Galaxy Z Fold5 Cream 7.6"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2245,"Samsung Galaxy Z Fold5 Cream 7.6"" 512GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2246,"Samsung Galaxy Z Fold5 Icy Blue 7.6"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2247,"Samsung Galaxy Z Fold5 Icy Blue 7.6"" 512GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2248,"Samsung Galaxy Z Fold5 Phantom Black 7.6"" 1TB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2249,"Samsung Galaxy Z Fold5 Phantom Black 7.6"" 256GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2250,"Samsung Galaxy Z Fold5 Phantom Black 7.6"" 512GB 5G Unlocked & SIM Free Smartphone",Samsung,,0
+2251,"Samsung Gusto 3, Dark Blue, Verizon Wireless",Samsung,3.2,81
+2252,"Samsung Gusto 3, Royal Navy Blue (Verizon Wireless Prepaid) (Renewed)",Samsung,3.2,3
+2253,"Samsung Gusto 3, Royal Navy Blue (Verizon Wireless Prepaid) - Discontinued by Manufacturer",Samsung,3.3,262
+2254,"Samsung Gusto, Black (Verizon Wireless)",Samsung,3.4,16
+2255,Samsung J3 - Verizon Prepaid,Samsung,3.6,41
+2256,Samsung J327V Eclipse Verizon (Black),Samsung,4.2,16
+2257,"Samsung Original Galaxy Watch Active2 w/; auto Workout Tracking, and pace Coaching Enhanced Sleep Tracking Analysis Stainless Steel CASE and Leather Band (International Model) (Black, 44mm) No LTE",Samsung,3.9,8
+2258,Samsung Qi Certified Fast Charge Wireless Charging Pad for Qi Compatible Smartphones with Built-in Cool Fan - Retail Packaging - Black,Samsung,4,20
+2259,Samsung R355C Net 10 Unlimited,Samsung,3.5,146
+2260,Samsung Replenish Prepaid Android Phone (Boost Mobile),Samsung,3.7,84
+2261,Samsung Replenish SPH-M580 Blue No Contract Sprint Cell Phone,Samsung,2.5,10
+2262,"Samsung Rugby II, Black (AT&T)",Samsung,3.6,70
+2263,Samsung SA-S5260WESP Cellphone - Unlocked Phone - US Warranty - White,Samsung,3.1,23
+2264,Samsung SM-J737VZKAVZW Galaxy J7 V 16GB (2018) 2nd Edition for Verizon (Renewed),Samsung,3.6,15
+2265,Samsung Smooth Verizon Wireless Prepaid Mobile Cell Camera Phone CDMA,Samsung,2.6,78
+2266,Samsung Solstice II A817 Touch Screen (AT&T) No Contract,Samsung,3.3,4
+2267,Samsung T201G Prepaid Phone (Net10),Samsung,3.6,22
+2268,Samsung TWSAS120VCP-3 Galaxy J1 Luna 4G LTE Total Wireless Prepaid Smartphone,Samsung,3.7,8
+2269,"Samsung U365 Gusto 2 Prepaid Phone (Verizon Wireless, Prepaid)",Samsung,3.7,74
+2270,Samsung a157 GoPhone (AT&T),Samsung,3.4,305
+2271,Samsung a157V (AT&T Go Phone) No Annual Contract,Samsung,3.5,299
+2272,Samsung a167 Prepaid GoPhone (AT&T),Samsung,2.9,18
+2278,"Straight Talk Samsung Galaxy A10e Smartphone 5.8"" 32GB Memory 8MP Camera",Samsung,5,1
+2279,"Straight Talk Samsung Galaxy J7 Sky Pro 16GB Prepaid Smartphone, Black (Locked)",Samsung,3.9,44
+2411,Total Wireless Samsung Galaxy S8+ 4G LTE Prepaid Smartphone,Samsung,5,2
+2412,Verizon Prepaid - Apple iPhone 6S (32GB) - Space Gray,Apple,2.2,4
+2413,Verizon Samsung Convoy U660 No Contract Rugged PTT Cell Phone Grey Verizon,Samsung,4.1,252
+2414,Verizon or PagePlus Samsung Smooth U350 Great Condition Blue CDMA Cell Phone,Samsung,3.3,57
